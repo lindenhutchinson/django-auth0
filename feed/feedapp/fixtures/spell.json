@@ -1,0 +1,7477 @@
+[
+	{
+		"model": "feedapp.spell",
+		"pk": 1,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:acid-splash",
+			"name": "Acid Splash",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 Feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 2,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:blade-ward",
+			"name": "Blade Ward",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 round",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 3,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:booming-blade",
+			"name": "Booming Blade",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (5-foot radius)",
+			"duration": "1 round",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 4,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:chill-touch",
+			"name": "Chill Touch",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "1 round",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 5,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:control-flames",
+			"name": "Control Flames",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 Feet",
+			"duration": "Instantaneous or 1 hour",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 6,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:create-bonfire",
+			"name": "Create Bonfire",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 Feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 7,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dancing-lights",
+			"name": "Dancing Lights",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 8,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:decompose",
+			"name": "Decompose (HB)",
+			"school": "Necromancy HB",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 9,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:druidcraft",
+			"name": "Druidcraft",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 Feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 10,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:eldritch-blast",
+			"name": "Eldritch Blast",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 Feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 11,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:encode-thoughts",
+			"name": "Encode Thoughts",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "8 hours",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 12,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fire-bolt",
+			"name": "Fire Bolt",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 13,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:friends",
+			"name": "Friends",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 14,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:frostbite",
+			"name": "Frostbite",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 15,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:green-flame-blade",
+			"name": "Green-Flame Blade",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (5-foot radius)",
+			"duration": "Instantaneous",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 16,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:guidance",
+			"name": "Guidance",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 17,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:gust",
+			"name": "Gust",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 18,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hand-of-radiance-ua",
+			"name": "Hand of Radiance (UA)",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "5 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 19,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:infestation",
+			"name": "Infestation",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 20,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:light",
+			"name": "Light",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 21,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:lightning-lure",
+			"name": "Lightning Lure",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (15-foot radius)",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 22,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mage-hand",
+			"name": "Mage Hand",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 23,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:magic-stone",
+			"name": "Magic Stone",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Touch",
+			"duration": "1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 24,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mending",
+			"name": "Mending",
+			"school": "Transmutation",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 25,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:message",
+			"name": "Message",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "1 round",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 26,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mind-sliver",
+			"name": "Mind Sliver",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "1 round",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 27,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:minor-illusion",
+			"name": "Minor Illusion",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "1 minute",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 28,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mold-earth",
+			"name": "Mold Earth",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous or 1 hour",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 29,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:on-off",
+			"name": "On/Off (UA)",
+			"school": "Transmutation T",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 30,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:poison-spray",
+			"name": "Poison Spray",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "10 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 31,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:prestidigitation",
+			"name": "Prestidigitation",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "10 feet",
+			"duration": "Up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 32,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:primal-savagery",
+			"name": "Primal Savagery",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Self",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 33,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:produce-flame",
+			"name": "Produce Flame",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 34,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ray-of-frost",
+			"name": "Ray of Frost",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 35,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:resistance",
+			"name": "Resistance",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 36,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sacred-flame",
+			"name": "Sacred Flame",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 37,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sapping-sting",
+			"name": "Sapping Sting",
+			"school": "Necromancy D",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 38,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shape-water",
+			"name": "Shape Water",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous or 1 hour",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 39,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shillelagh",
+			"name": "Shillelagh",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Touch",
+			"duration": "1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 40,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shocking-grasp",
+			"name": "Shocking Grasp",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 41,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:spare-the-dying",
+			"name": "Spare the Dying",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 42,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sword-burst",
+			"name": "Sword Burst",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (5-foot radius)",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 43,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:thaumaturgy",
+			"name": "Thaumaturgy",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 44,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:thorn-whip",
+			"name": "Thorn Whip",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 45,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:thunderclap",
+			"name": "Thunderclap",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (5-foot radius)",
+			"duration": "Instantaneous",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 46,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:toll-the-dead",
+			"name": "Toll the Dead",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 47,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:true-strike",
+			"name": "True Strike",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration up to 1 round",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 48,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:vicious-mockery",
+			"name": "Vicious Mockery",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 49,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:virtue",
+			"name": "Virtue (UA)",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 round",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 50,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:word-of-radiance",
+			"name": "Word of Radiance",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "5 feet",
+			"duration": "Instantaneous",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 51,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:absorb-elements",
+			"name": "Absorb Elements",
+			"school": "Abjuration",
+			"casting_time": "1 Reaction",
+			"spell_range": "Self",
+			"duration": "1 round",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 52,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:acid-stream",
+			"name": "Acid Stream (UA)",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot line)",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 53,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:alarm",
+			"name": "Alarm",
+			"school": "Abjuration",
+			"casting_time": "1 Action R",
+			"spell_range": "30 feet",
+			"duration": "8 Hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 54,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:animal-friendship",
+			"name": "Animal Friendship",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 55,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:arcane-weapon",
+			"name": "Arcane Weapon (UA)",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 56,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:armor-of-agathys",
+			"name": "Armor of Agathys",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 57,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:arms-of-hadar",
+			"name": "Arms of Hadar",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (10-foot radius)",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 58,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:bane",
+			"name": "Bane",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 59,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:beast-bond",
+			"name": "Beast Bond",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 60,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:bless",
+			"name": "Bless",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 61,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:burning-hands",
+			"name": "Burning Hands",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (15-foot cone)",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 62,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:catapult",
+			"name": "Catapult",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 63,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:cause-fear",
+			"name": "Cause Fear",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 64,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ceremony",
+			"name": "Ceremony",
+			"school": "Evocation",
+			"casting_time": "1 Action R",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 65,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:chaos-bolt",
+			"name": "Chaos Bolt",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 66,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:charm-person",
+			"name": "Charm Person",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 67,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:chromatic-orb",
+			"name": "Chromatic Orb",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 68,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:color-spray",
+			"name": "Color Spray",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Self (15-foot cone)",
+			"duration": "1 round",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 69,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:command",
+			"name": "Command",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "1 round",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 70,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:compelled-duel",
+			"name": "Compelled Duel",
+			"school": "Enchantment",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 71,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:comprehend-languages",
+			"name": "Comprehend Languages",
+			"school": "Divination",
+			"casting_time": "1 Action R",
+			"spell_range": "Self",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 72,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:create-or-destroy-water",
+			"name": "Create or Destroy Water",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 73,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:cure-wounds",
+			"name": "Cure Wounds",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 74,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:detect-evil-and-good",
+			"name": "Detect Evil and Good",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 75,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:detect-magic",
+			"name": "Detect Magic",
+			"school": "Divination",
+			"casting_time": "1 Action R",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 76,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:detect-poison-and-disease",
+			"name": "Detect Poison and Disease",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 77,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:disguise-self",
+			"name": "Disguise Self",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 78,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dissonant-whispers",
+			"name": "Dissonant Whispers",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 79,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:distort-value",
+			"name": "Distort Value",
+			"school": "Illusion",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 80,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:divine-favor",
+			"name": "Divine Favor",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 81,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:earth-tremor",
+			"name": "Earth Tremor",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (10-foot radius)",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 82,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ensnaring-strike",
+			"name": "Ensnaring Strike",
+			"school": "Conjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 83,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:entangle",
+			"name": "Entangle",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 84,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:expeditious-retreat",
+			"name": "Expeditious Retreat",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 85,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:faerie-fire",
+			"name": "Faerie Fire",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 86,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:false-life",
+			"name": "False Life",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 87,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:feather-fall",
+			"name": "Feather Fall",
+			"school": "Transmutation",
+			"casting_time": "1 Reaction",
+			"spell_range": "60 feet",
+			"duration": "1 minute",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 88,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:find-familiar",
+			"name": "Find Familiar",
+			"school": "Conjuration",
+			"casting_time": "1 Hour R",
+			"spell_range": "10 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 89,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fog-cloud",
+			"name": "Fog Cloud",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 90,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:frost-fingers",
+			"name": "Frost Fingers",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (15-foot cone)",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 91,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:gift-of-alacrity",
+			"name": "Gift of Alacrity",
+			"school": "Divination DC",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 92,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:goodberry",
+			"name": "Goodberry",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 93,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:grease",
+			"name": "Grease",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 94,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:guiding-bolt",
+			"name": "Guiding Bolt",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "1 round",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 95,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:guiding-hand-ua",
+			"name": "Guiding Hand (UA)",
+			"school": "Divination",
+			"casting_time": "1 Minute R",
+			"spell_range": "5 feet",
+			"duration": "Concentration, up to 8 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 96,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hail-of-thorns",
+			"name": "Hail of Thorns",
+			"school": "Conjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 97,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:healing-elixir-ua",
+			"name": "Healing Elixir (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "Self",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 98,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:healing-word",
+			"name": "Healing Word",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 99,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hellish-rebuke",
+			"name": "Hellish Rebuke",
+			"school": "Evocation",
+			"casting_time": "1 Reaction",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 100,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:heroism",
+			"name": "Heroism",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 101,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hex",
+			"name": "Hex",
+			"school": "Enchantment",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 102,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hunters-mark",
+			"name": "Hunter's Mark",
+			"school": "Divination",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 103,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ice-knife",
+			"name": "Ice Knife",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 104,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:id-insinuation",
+			"name": "Id Insinuation (UA)",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 105,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:identify",
+			"name": "Identify",
+			"school": "Divination",
+			"casting_time": "1 Minute R",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 106,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:illusory-script",
+			"name": "Illusory Script",
+			"school": "Illusion",
+			"casting_time": "1 Minute R",
+			"spell_range": "Touch",
+			"duration": "10 days",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 107,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:infallible-relay",
+			"name": "Infallible Relay (UA)",
+			"school": "Divination T",
+			"casting_time": "1 Minute",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 108,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:inflict-wounds",
+			"name": "Inflict Wounds",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 109,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:jims-magic-missile",
+			"name": "Jim's Magic Missile",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 110,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:jump",
+			"name": "Jump",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 111,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:longstrider",
+			"name": "Longstrider",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 112,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mage-armor",
+			"name": "Mage Armor",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 113,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:magic-missile",
+			"name": "Magic Missile",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 114,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:magnify-gravity",
+			"name": "Magnify Gravity",
+			"school": "Transmutation DG",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "1 round",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 115,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:protection-from-evil-and-good",
+			"name": "Protection from Evil and Good",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 116,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:puppet",
+			"name": "Puppet (UA)",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 117,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:purify-food-and-drink",
+			"name": "Purify Food and Drink",
+			"school": "Transmutation",
+			"casting_time": "1 Action R",
+			"spell_range": "10 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 118,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ray-of-sickness",
+			"name": "Ray of Sickness",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 119,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:remote-access",
+			"name": "Remote Access (UA)",
+			"school": "Transmutation T",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 120,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sanctuary",
+			"name": "Sanctuary",
+			"school": "Abjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "30 feet",
+			"duration": "1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 121,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:searing-smite",
+			"name": "Searing Smite",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 122,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sense-emotion",
+			"name": "Sense Emotion (UA)",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 123,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shield",
+			"name": "Shield",
+			"school": "Abjuration",
+			"casting_time": "1 Reaction",
+			"spell_range": "Self",
+			"duration": "1 round",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 124,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shield-of-faith",
+			"name": "Shield of Faith",
+			"school": "Abjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 125,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:silent-image",
+			"name": "Silent Image",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 126,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:silvery-barbs",
+			"name": "Silvery Barbs",
+			"school": "Enchantment",
+			"casting_time": "1 Reaction",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 127,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sleep",
+			"name": "Sleep",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 128,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:snare",
+			"name": "Snare",
+			"school": "Abjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "Until dispelled or triggered",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 129,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:speak-with-animals",
+			"name": "Speak with Animals",
+			"school": "Divination",
+			"casting_time": "1 Action R",
+			"spell_range": "Self",
+			"duration": "10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 130,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sudden-awakening",
+			"name": "Sudden Awakening (UA)",
+			"school": "Enchantment",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "10 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 131,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tashas-caustic-brew",
+			"name": "Tasha's Caustic Brew",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot line)",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 132,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tashas-hideous-laughter",
+			"name": "Tasha's Hideous Laughter",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 133,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tensers-floating-disk",
+			"name": "Tenser's Floating Disk",
+			"school": "Conjuration",
+			"casting_time": "1 Action R",
+			"spell_range": "30 feet",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 134,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:thunderous-smite",
+			"name": "Thunderous Smite",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 135,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:thunderwave",
+			"name": "Thunderwave",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (15-foot cube)",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 136,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:unearthly-chorus",
+			"name": "Unearthly Chorus (UA)",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot radius)",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 137,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:unseen-servant",
+			"name": "Unseen Servant",
+			"school": "Conjuration",
+			"casting_time": "1 Action R",
+			"spell_range": "60 feet",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 138,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wild-cunning-ua",
+			"name": "Wild Cunning (UA)",
+			"school": "Transmutation",
+			"casting_time": "1 Action R",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 139,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:witch-bolt",
+			"name": "Witch Bolt",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 140,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wrathful-smite",
+			"name": "Wrathful Smite",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 141,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:zephyr-strike",
+			"name": "Zephyr Strike",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 142,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:aganazzars-scorcher",
+			"name": "Aganazzar's Scorcher",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "30 Feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 143,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:aid",
+			"name": "Aid",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 Feet",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 144,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:air-bubble",
+			"name": "Air Bubble",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 Feet",
+			"duration": "24 hours",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 145,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:alter-self",
+			"name": "Alter Self",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 146,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:animal-messenger",
+			"name": "Animal Messenger",
+			"school": "Enchantment",
+			"casting_time": "1 Action R",
+			"spell_range": "30 Feet",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 147,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:arcane-hacking",
+			"name": "Arcane Hacking (UA)",
+			"school": "Transmutation T",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 148,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:arcane-lock",
+			"name": "Arcane Lock",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 149,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:augury",
+			"name": "Augury",
+			"school": "Divination",
+			"casting_time": "1 Minute R",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 150,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:barkskin",
+			"name": "Barkskin",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 151,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:beast-sense",
+			"name": "Beast Sense",
+			"school": "Divination",
+			"casting_time": "1 Action R",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 152,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:blindness-deafness",
+			"name": "Blindness/Deafness",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "30 Feet",
+			"duration": "1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 153,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:blur",
+			"name": "Blur",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 154,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:borrowed-knowledge",
+			"name": "Borrowed Knowledge",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 155,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:branding-smite",
+			"name": "Branding Smite",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 156,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:calm-emotions",
+			"name": "Calm Emotions",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 157,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:cloud-of-daggers",
+			"name": "Cloud of Daggers",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 158,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:continual-flame",
+			"name": "Continual Flame",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 159,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:cordon-of-arrows",
+			"name": "Cordon of Arrows",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "5 feet",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 160,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:crown-of-madness",
+			"name": "Crown of Madness",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 161,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:darkness",
+			"name": "Darkness",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 162,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:darkvision",
+			"name": "Darkvision",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 163,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:detect-thoughts",
+			"name": "Detect Thoughts",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 164,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:digital-phantom",
+			"name": "Digital Phantom (UA)",
+			"school": "Abjuration T",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 165,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dragons-breath",
+			"name": "Dragon's Breath",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 166,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dust-devil",
+			"name": "Dust Devil",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 167,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:earthbind",
+			"name": "Earthbind",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "300 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 168,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:enhance-ability",
+			"name": "Enhance Ability",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 169,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:enlarge-reduce",
+			"name": "Enlarge/Reduce",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 170,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:enthrall",
+			"name": "Enthrall",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 171,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:find-steed",
+			"name": "Find Steed",
+			"school": "Conjuration",
+			"casting_time": "10 Minutes",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 172,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:find-traps",
+			"name": "Find Traps",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 173,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:find-vehicle",
+			"name": "Find Vehicle (UA)",
+			"school": "Conjuration T",
+			"casting_time": "10 Minutes",
+			"spell_range": "30 feet",
+			"duration": "8 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 174,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:flame-blade",
+			"name": "Flame Blade",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 175,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:flaming-sphere",
+			"name": "Flaming Sphere",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 176,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:flock-of-familiars",
+			"name": "Flock of Familiars",
+			"school": "Conjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 177,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fortunes-favor",
+			"name": "Fortune's Favor",
+			"school": "Divination D",
+			"casting_time": "1 Minute",
+			"spell_range": "60 feet",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 178,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:gentle-repose",
+			"name": "Gentle Repose",
+			"school": "Necromancy",
+			"casting_time": "1 Action R",
+			"spell_range": "Touch",
+			"duration": "10 days",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 179,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:gift-of-gab",
+			"name": "Gift of Gab",
+			"school": "Enchantment",
+			"casting_time": "Reaction",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 180,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:gust-of-wind",
+			"name": "Gust of Wind",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (60-foot line)",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 181,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:healing-spirit",
+			"name": "Healing Spirit",
+			"school": "Conjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 182,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:heat-metal",
+			"name": "Heat Metal",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 183,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hold-person",
+			"name": "Hold Person",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 184,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:icingdeath-s-frost-ua",
+			"name": "Icingdeath's Frost (UA)",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (15-foot cone)",
+			"duration": "Instantaneous",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 185,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:immovable-object",
+			"name": "Immovable Object",
+			"school": "Transmutation DG",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 186,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:invisibility",
+			"name": "Invisibility",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 187,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:jims-glowing-coin",
+			"name": "Jim's Glowing Coin",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "1 minute",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 188,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:kinetic-jaunt",
+			"name": "Kinetic Jaunt",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 189,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:knock",
+			"name": "Knock",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 190,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:lesser-restoration",
+			"name": "Lesser Restoration",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 191,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:levitate",
+			"name": "Levitate",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 192,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:locate-animals-or-plants",
+			"name": "Locate Animals or Plants",
+			"school": "Divination",
+			"casting_time": "1 Action R",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 193,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:locate-object",
+			"name": "Locate Object",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 194,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:magic-mouth",
+			"name": "Magic Mouth",
+			"school": "Illusion",
+			"casting_time": "1 Minute R",
+			"spell_range": "30 feet",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 195,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:magic-weapon",
+			"name": "Magic Weapon",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 196,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:maximillians-earthen-grasp",
+			"name": "Maximillian's Earthen Grasp",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 197,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:melfs-acid-arrow",
+			"name": "Melf's Acid Arrow",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 198,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mental-barrier",
+			"name": "Mental Barrier (UA)",
+			"school": "Abjuration",
+			"casting_time": "1 Reaction",
+			"spell_range": "Self",
+			"duration": "1 round",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 199,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mind-spike",
+			"name": "Mind Spike",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 200,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mind-thrust",
+			"name": "Mind Thrust (UA)",
+			"school": "Enchantment",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "60 feet",
+			"duration": "1 round",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 201,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mirror-image",
+			"name": "Mirror Image",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 202,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:misty-step",
+			"name": "Misty Step",
+			"school": "Conjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 203,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:moonbeam",
+			"name": "Moonbeam",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 204,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:nathairs-mischief",
+			"name": "Nathair's Mischief",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "60ft",
+			"duration": "Concentration, up to 1 minute",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 205,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:nathairs-mischief-ua",
+			"name": "Nathair's Mischief (UA)",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 206,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:nystuls-magic-aura",
+			"name": "Nystul's Magic Aura",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 207,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:pass-without-trace",
+			"name": "Pass Without Trace",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 208,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:phantasmal-force",
+			"name": "Phantasmal Force",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 209,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:prayer-of-healing",
+			"name": "Prayer of Healing",
+			"school": "Evocation",
+			"casting_time": "10 Minutes",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 210,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:protection-from-poison",
+			"name": "Protection from Poison",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 211,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:pyrotechnics",
+			"name": "Pyrotechnics",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 212,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ray-of-enfeeblement",
+			"name": "Ray of Enfeeblement",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 213,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:rimes-binding-ice",
+			"name": "Rime's Binding Ice",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot cone)",
+			"duration": "Instantaneous",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 214,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:rope-trick",
+			"name": "Rope Trick",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 215,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:scorching-ray",
+			"name": "Scorching Ray",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 216,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:see-invisibility",
+			"name": "See Invisibility",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 217,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shadow-blade",
+			"name": "Shadow Blade",
+			"school": "Illusion",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 218,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shatter",
+			"name": "Shatter",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 219,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:silence",
+			"name": "Silence",
+			"school": "Illusion",
+			"casting_time": "1 Action R",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 220,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:skywrite",
+			"name": "Skywrite",
+			"school": "Transmutation",
+			"casting_time": "1 Action R",
+			"spell_range": "Sight",
+			"duration": "Concentration, up to 1 day",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 221,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:snillocs-snowball-storm",
+			"name": "Snilloc's Snowball Storm",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 222,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:spider-climb",
+			"name": "Spider Climb",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 223,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:spike-growth",
+			"name": "Spike Growth",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 224,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:spiritual-weapon",
+			"name": "Spiritual Weapon",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "60 feet",
+			"duration": "1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 225,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:spray-of-cards-ua",
+			"name": "Spray of Cards (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "15-foot cone",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 226,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:suggestion",
+			"name": "Suggestion",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 8 hours",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 227,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-beast",
+			"name": "Summon Beast",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 228,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tashas-mind-whip",
+			"name": "Tasha's Mind Whip",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "1 round",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 229,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:thought-shield",
+			"name": "Thought Shield (UA)",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 230,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:vortex-warp",
+			"name": "Vortex Warp",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 231,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:warding-bond",
+			"name": "Warding Bond",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 232,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:warding-wind",
+			"name": "Warding Wind",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 233,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:web",
+			"name": "Web",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 234,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wither-and-bloom",
+			"name": "Wither and Bloom",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 235,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wristpocket",
+			"name": "Wristpocket",
+			"school": "Conjuration D",
+			"casting_time": "1 Action R",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 236,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:zone-of-truth",
+			"name": "Zone of Truth",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 237,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:animate-dead",
+			"name": "Animate Dead",
+			"school": "Necromancy",
+			"casting_time": "1 Minute",
+			"spell_range": "10 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 238,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:antagonize-ua",
+			"name": "Antagonize (UA)",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 239,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ashardalons-stride",
+			"name": "Ashardalon's Stride",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V,S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 240,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:aura-of-vitality",
+			"name": "Aura of Vitality",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot radius)",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 241,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:beacon-of-hope",
+			"name": "Beacon of Hope",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 242,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:bestow-curse",
+			"name": "Bestow Curse",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 243,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:blinding-smite",
+			"name": "Blinding Smite",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 244,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:blink",
+			"name": "Blink",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 245,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:call-lightning",
+			"name": "Call Lightning",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 246,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:catnap",
+			"name": "Catnap",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "10 minutes",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 247,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:clairvoyance",
+			"name": "Clairvoyance",
+			"school": "Divination",
+			"casting_time": "10 Minutes",
+			"spell_range": "1 mile",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 248,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-animals",
+			"name": "Conjure Animals",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 249,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-barrage",
+			"name": "Conjure Barrage",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (60-foot cone)",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 250,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-lesser-demon",
+			"name": "Conjure Lesser Demon (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 251,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:counterspell",
+			"name": "Counterspell",
+			"school": "Abjuration",
+			"casting_time": "1 Reaction",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 252,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:create-food-and-water",
+			"name": "Create Food and Water",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 253,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:crusaders-mantle",
+			"name": "Crusader's Mantle",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 254,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:daylight",
+			"name": "Daylight",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 255,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dispel-magic",
+			"name": "Dispel Magic",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 256,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:elemental-weapon",
+			"name": "Elemental Weapon",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 257,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:enemies-abound",
+			"name": "Enemies Abound",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 258,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:erupting-earth",
+			"name": "Erupting Earth",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 259,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fast-friends",
+			"name": "Fast Friends",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 260,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fear",
+			"name": "Fear",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot cone)",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 261,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:feign-death",
+			"name": "Feign Death",
+			"school": "Necromancy",
+			"casting_time": "1 Action R",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 262,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fireball",
+			"name": "Fireball",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 263,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:flame-arrows",
+			"name": "Flame Arrows",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 264,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:flame-stride",
+			"name": "Flame Stride (UA)",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 265,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fly",
+			"name": "Fly",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 10 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 266,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:freedom-of-the-waves",
+			"name": "Freedom of the Waves (HB)",
+			"school": "Conjuration HB",
+			"casting_time": "1 action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 267,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:galders-tower",
+			"name": "Galder's Tower",
+			"school": "Conjuration",
+			"casting_time": "10 Minutes",
+			"spell_range": "30 feet",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 268,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:gaseous-form",
+			"name": "Gaseous Form",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 269,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:glyph-of-warding",
+			"name": "Glyph of Warding",
+			"school": "Abjuration",
+			"casting_time": "1 Hour",
+			"spell_range": "Touch",
+			"duration": "Until dispelled or triggered",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 270,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:haste",
+			"name": "Haste",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 271,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:haywire-ua",
+			"name": "Haywire (UA)",
+			"school": "Enchantment T",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 272,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:house-of-cards-ua",
+			"name": "House of Cards (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 273,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hunger-of-hadar",
+			"name": "Hunger Of Hadar",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 274,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hypnotic-pattern",
+			"name": "Hypnotic Pattern",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 275,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:incite-greed",
+			"name": "Incite Greed",
+			"school": "Enchantment",
+			"casting_time": "1 action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 276,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:intellect-fortress",
+			"name": "Intellect Fortress",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 277,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:invisibility-to-cameras",
+			"name": "Invisibility To Cameras (UA)",
+			"school": "Illusion T",
+			"casting_time": "1 Action",
+			"spell_range": "10 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 278,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:leomunds-tiny-hut",
+			"name": "Leomund's Tiny Hut",
+			"school": "Evocation",
+			"casting_time": "1 Minute R",
+			"spell_range": "Self (10-foot radius hemisphere)",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 279,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:life-transference",
+			"name": "Life Transference",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 280,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:lightning-arrow",
+			"name": "Lightning Arrow",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 281,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:lightning-bolt",
+			"name": "Lightning Bolt",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (100-foot line)",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 282,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:magic-circle",
+			"name": "Magic Circle",
+			"school": "Abjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "10 feet",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 283,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:major-image",
+			"name": "Major Image",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 284,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mass-healing-word",
+			"name": "Mass Healing Word",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 285,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:meld-into-stone",
+			"name": "Meld into Stone",
+			"school": "Transmutation",
+			"casting_time": "1 Action R",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 286,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:melfs-minute-meteors",
+			"name": "Melf's Minute Meteors",
+			"school": "Evocation",
+			"casting_time": "Self",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 287,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:motivational-speech",
+			"name": "Motivational Speech",
+			"school": "Enchantment",
+			"casting_time": "1 hour",
+			"spell_range": "60 feet",
+			"duration": "1 hour",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 288,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:nondetection",
+			"name": "Nondetection",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 289,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:phantom-steed",
+			"name": "Phantom Steed",
+			"school": "Illusion",
+			"casting_time": "1 Action R",
+			"spell_range": "30 feet",
+			"duration": "1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 290,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:plant-growth",
+			"name": "Plant Growth",
+			"school": "Transmutation",
+			"casting_time": "1 Action or 8 Hours",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 291,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:protection-from-ballistics",
+			"name": "Protection from Ballistics (UA)",
+			"school": "Abjuration T",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 292,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:protection-from-energy",
+			"name": "Protection from Energy",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 293,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:psionic-blast",
+			"name": "Psionic Blast (UA)",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot cone)",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 294,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:pulse-wave",
+			"name": "Pulse Wave",
+			"school": "Evocation D",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot cone)",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 295,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:remove-curse",
+			"name": "Remove Curse",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 296,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:revivify",
+			"name": "Revivify",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 297,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sending",
+			"name": "Sending",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Unlimited",
+			"duration": "1 round",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 298,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sleet-storm",
+			"name": "Sleet Storm",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 299,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:slow",
+			"name": "Slow",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 300,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:speak-with-dead",
+			"name": "Speak with Dead",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "10 feet",
+			"duration": "10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 301,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:speak-with-plants",
+			"name": "Speak with Plants",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot radius)",
+			"duration": "10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 302,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:spirit-guardians",
+			"name": "Spirit Guardians",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (15-foot radius)",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 303,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:spirit-shroud",
+			"name": "Spirit Shroud",
+			"school": "Necromancy",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 304,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:stinking-cloud",
+			"name": "Stinking Cloud",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 305,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-fey",
+			"name": "Summon Fey",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 306,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-lesser-demons",
+			"name": "Summon Lesser Demons",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 Feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 307,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-shadowspawn",
+			"name": "Summon Shadowspawn",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 308,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-undead",
+			"name": "Summon Undead",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 309,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-warrior-spirit-ua",
+			"name": "Summon Warrior Spirit (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 310,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:thunder-step",
+			"name": "Thunder Step",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 311,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tidal-wave",
+			"name": "Tidal Wave",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 312,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tiny-servant",
+			"name": "Tiny Servant",
+			"school": "Transmutation",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 313,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tongues",
+			"name": "Tongues",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 314,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:vampiric-touch",
+			"name": "Vampiric Touch",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 315,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wall-of-sand",
+			"name": "Wall of Sand",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 316,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wall-of-water",
+			"name": "Wall of Water",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 317,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:water-breathing",
+			"name": "Water Breathing",
+			"school": "Transmutation",
+			"casting_time": "1 Action R",
+			"spell_range": "30 feet",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 318,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:water-walk",
+			"name": "Water Walk",
+			"school": "Transmutation",
+			"casting_time": "1 Action R",
+			"spell_range": "30 feet",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 319,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wind-wall",
+			"name": "Wind Wall",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 320,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:arcane-eye",
+			"name": "Arcane Eye",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 321,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:aura-of-life",
+			"name": "Aura of Life",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot radius)",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 322,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:aura-of-purity",
+			"name": "Aura of Purity",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot radius)",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 323,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:banishment",
+			"name": "Banishment",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 324,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:blight",
+			"name": "Blight",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 325,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:charm-monster",
+			"name": "Charm Monster",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 326,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:compulsion",
+			"name": "Compulsion",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 327,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:confusion",
+			"name": "Confusion",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 328,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-barlgura",
+			"name": "Conjure Barlgura (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 329,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-knowbot",
+			"name": "Conjure Knowbot (UA)",
+			"school": "Conjuration T",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 330,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-minor-elementals",
+			"name": "Conjure Minor Elementals",
+			"school": "Conjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 331,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-shadow-demon",
+			"name": "Conjure Shadow Demon (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 332,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-woodland-beings",
+			"name": "Conjure Woodland Beings",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 333,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:control-water",
+			"name": "Control Water",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "300 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 334,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:death-ward",
+			"name": "Death Ward",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 335,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dimension-door",
+			"name": "Dimension Door",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "500 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 336,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:divination",
+			"name": "Divination",
+			"school": "Divination",
+			"casting_time": "1 Action R",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 337,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dominate-beast",
+			"name": "Dominate Beast",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 338,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ego-whip",
+			"name": "Ego Whip (UA)",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 339,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:elemental-bane",
+			"name": "Elemental Bane",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 340,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:evards-black-tentacles",
+			"name": "Evard's Black Tentacles",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 341,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fabricate",
+			"name": "Fabricate",
+			"school": "Transmutation",
+			"casting_time": "10 Minutes",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 342,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:find-greater-steed",
+			"name": "Find Greater Steed",
+			"school": "Conjuration",
+			"casting_time": "10 Minutes",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 343,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fire-shield",
+			"name": "Fire Shield",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 344,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:freedom-of-movement",
+			"name": "Freedom of Movement",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 345,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:galders-speedy-courier",
+			"name": "Galder's Speedy Courier",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "10 feet",
+			"duration": "10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 346,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:giant-insect",
+			"name": "Giant Insect",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 347,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:grasping-vine",
+			"name": "Grasping Vine",
+			"school": "Conjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 348,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:gravity-sinkhole",
+			"name": "Gravity Sinkhole",
+			"school": "Evocation DG",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 349,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:greater-invisibility",
+			"name": "Greater Invisibility",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 350,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:guardian-of-faith",
+			"name": "Guardian of Faith",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "8 hours",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 351,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:guardian-of-nature",
+			"name": "Guardian of Nature",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 352,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hallucinatory-terrain",
+			"name": "Hallucinatory Terrain",
+			"school": "Illusion",
+			"casting_time": "10 Minutes",
+			"spell_range": "300 feet",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 353,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ice-storm",
+			"name": "Ice Storm",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "300 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 354,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:leomunds-secret-chest",
+			"name": "Leomund's Secret Chest",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 355,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:locate-creature",
+			"name": "Locate Creature",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 356,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mordenkainens-faithful-hound",
+			"name": "Mordenkainen's Faithful Hound",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 357,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mordenkainens-private-sanctum",
+			"name": "Mordenkainen's Private Sanctum",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 358,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:otilukes-resilient-sphere",
+			"name": "Otiluke's Resilient Sphere",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 359,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:phantasmal-killer",
+			"name": "Phantasmal Killer",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 360,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:polymorph",
+			"name": "Polymorph",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 361,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:raulothims-psychic-lance",
+			"name": "Raulothim's Psychic Lance",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 362,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:raulothims-psychic-lance-ua",
+			"name": "Raulothim's Psychic Lance (UA)",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 363,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shadow-of-moil",
+			"name": "Shadow Of Moil",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 364,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sickening-radiance",
+			"name": "Sickening Radiance",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 Feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 365,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:spirit-of-death-ua",
+			"name": "Spirit of Death (UA)",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 366,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:staggering-smite",
+			"name": "Staggering Smite",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 367,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:stone-shape",
+			"name": "Stone Shape",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 368,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:stoneskin",
+			"name": "Stoneskin",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 369,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:storm-sphere",
+			"name": "Storm Sphere",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 370,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-aberration",
+			"name": "Summon Aberration",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 371,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-construct",
+			"name": "Summon Construct",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 372,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-elemental",
+			"name": "Summon Elemental",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 373,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-greater-demon",
+			"name": "Summon Greater Demon",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 Feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 374,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:synchronicity",
+			"name": "Synchronicity (UA)",
+			"school": "Enchantment T",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 375,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:system-backdoor",
+			"name": "System Backdoor (UA)",
+			"school": "Transmutation T",
+			"casting_time": "1 Minute",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 376,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:vitriolic-sphere",
+			"name": "Vitriolic Sphere",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 377,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wall-of-fire",
+			"name": "Wall of Fire",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 378,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:watery-sphere",
+			"name": "Watery Sphere",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 379,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:widogast-s-vault-of-amber-hb",
+			"name": "Widogast's Vault of Amber (HB)",
+			"school": "Transmutation HB",
+			"casting_time": "1 minute R",
+			"spell_range": "Touch",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 380,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:widogast-s-web-of-fire-hb",
+			"name": "Widogast's Web of Fire (HB)",
+			"school": "Evocation HB",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 381,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:animate-objects",
+			"name": "Animate Objects",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 382,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:antilife-shell",
+			"name": "Antilife Shell",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (10-foot radius)",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 383,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:awaken",
+			"name": "Awaken",
+			"school": "Transmutation",
+			"casting_time": "8 Hours",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 384,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:banishing-smite",
+			"name": "Banishing Smite",
+			"school": "Abjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 385,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:bigbys-hand",
+			"name": "Bigby's Hand",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 386,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:circle-of-power",
+			"name": "Circle of Power",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot radius)",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 387,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:cloudkill",
+			"name": "Cloudkill",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 388,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:commune",
+			"name": "Commune",
+			"school": "Divination",
+			"casting_time": "1 Minute R",
+			"spell_range": "Self",
+			"duration": "1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 389,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:commune-with-city",
+			"name": "Commune with City (UA)",
+			"school": "Divination T",
+			"casting_time": "1 Minute R",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 390,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:commune-with-nature",
+			"name": "Commune with Nature",
+			"school": "Divination",
+			"casting_time": "1 Minute R",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 391,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:cone-of-cold",
+			"name": "Cone of Cold",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (60-foot cone)",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 392,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-elemental",
+			"name": "Conjure Elemental",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 393,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-volley",
+			"name": "Conjure Volley",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 394,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-vrock",
+			"name": "Conjure Vrock (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 395,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:contact-other-plane",
+			"name": "Contact Other Plane",
+			"school": "Divination",
+			"casting_time": "1 Minute R",
+			"spell_range": "Self",
+			"duration": "1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 396,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:contagion",
+			"name": "Contagion",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "7 days",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 397,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:control-winds",
+			"name": "Control Winds",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "300 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 398,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:create-spelljamming-helm",
+			"name": "Create Spelljamming Helm",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V,S,M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 399,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:creation",
+			"name": "Creation",
+			"school": "Illusion",
+			"casting_time": "1 Minute",
+			"spell_range": "30 feet",
+			"duration": "Special",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 400,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:danse-macabre",
+			"name": "Danse Macabre",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 Feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 401,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dawn",
+			"name": "Dawn",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 Feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 402,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:destructive-wave",
+			"name": "Destructive Wave",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (30-foot radius)",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 403,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dispel-evil-and-good",
+			"name": "Dispel Evil and Good",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 404,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dominate-person",
+			"name": "Dominate Person",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 405,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dream",
+			"name": "Dream",
+			"school": "Illusion",
+			"casting_time": "1 Minute",
+			"spell_range": "Special",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 406,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:enervation",
+			"name": "Enervation",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 407,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:far-step",
+			"name": "Far Step",
+			"school": "Conjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 408,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:flame-strike",
+			"name": "Flame Strike",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 409,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:freedom-of-the-winds",
+			"name": "Freedom of the Winds (HB)",
+			"school": "Abjuration HB",
+			"casting_time": "1 action",
+			"spell_range": "Self",
+			"duration": "Concentration up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 410,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:geas",
+			"name": "Geas",
+			"school": "Enchantment",
+			"casting_time": "1 Minute",
+			"spell_range": "60 feet",
+			"duration": "30 days",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 411,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:greater-restoration",
+			"name": "Greater Restoration",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 412,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hallow",
+			"name": "Hallow",
+			"school": "Evocation",
+			"casting_time": "24 Hours",
+			"spell_range": "Touch",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 413,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:hold-monster",
+			"name": "Hold Monster",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 414,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:holy-weapon",
+			"name": "Holy Weapon",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 415,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:immolation",
+			"name": "Immolation",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 416,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:infernal-calling",
+			"name": "Infernal Calling",
+			"school": "Conjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 417,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:insect-plague",
+			"name": "Insect Plague",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "300 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 418,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:legend-lore",
+			"name": "Legend Lore",
+			"school": "Divination",
+			"casting_time": "10 Minutes",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 419,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:maelstrom",
+			"name": "Maelstrom",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 420,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mass-cure-wounds",
+			"name": "Mass Cure Wounds",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 421,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mislead",
+			"name": "Mislead",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 422,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:modify-memory",
+			"name": "Modify Memory",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 423,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:negative-energy-flood",
+			"name": "Negative Energy Flood",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 424,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:passwall",
+			"name": "Passwall",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 425,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:planar-binding",
+			"name": "Planar Binding",
+			"school": "Abjuration",
+			"casting_time": "1 Hour",
+			"spell_range": "60 feet",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 426,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:raise-dead",
+			"name": "Raise Dead",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 427,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:rarys-telepathic-bond",
+			"name": "Rary's Telepathic Bond",
+			"school": "Divination",
+			"casting_time": "1 Action R",
+			"spell_range": "30 feet",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 428,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:reincarnate",
+			"name": "Reincarnate",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 429,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:scrying",
+			"name": "Scrying",
+			"school": "Divination",
+			"casting_time": "10 Minutes",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 430,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:seeming",
+			"name": "Seeming",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "8 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 431,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shutdown",
+			"name": "Shutdown (UA)",
+			"school": "Transmutation T",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 432,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:skill-empowerment",
+			"name": "Skill Empowerment",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 433,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:steel-wind-strike",
+			"name": "Steel Wind Strike",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 434,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-celestial",
+			"name": "Summon Celestial",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 435,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-draconic-spirit",
+			"name": "Summon Draconic Spirit",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 436,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-draconic-spirit-ua",
+			"name": "Summon Draconic Spirit (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 437,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:swift-quiver",
+			"name": "Swift Quiver",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Touch",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 438,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:synaptic-static",
+			"name": "Synaptic Static",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 439,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:telekinesis",
+			"name": "Telekinesis",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 440,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:teleportation-circle",
+			"name": "Teleportation Circle",
+			"school": "Conjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "10 feet",
+			"duration": "1 round",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 441,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:temporal-shunt",
+			"name": "Temporal Shunt",
+			"school": "Transmutation DC",
+			"casting_time": "1 Reaction",
+			"spell_range": "120 feet",
+			"duration": "1 round",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 442,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:transmute-rock",
+			"name": "Transmute Rock",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 443,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tree-stride",
+			"name": "Tree Stride",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 444,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wall-of-force",
+			"name": "Wall of Force",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 445,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wall-of-light",
+			"name": "Wall of Light",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 446,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wall-of-stone",
+			"name": "Wall of Stone",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 447,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wrath-of-nature",
+			"name": "Wrath Of Nature",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 448,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:arcane-gate",
+			"name": "Arcane Gate",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "500 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 449,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:blade-barrier",
+			"name": "Blade Barrier",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 450,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:bones-of-the-earth",
+			"name": "Bones of the Earth",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 451,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:chain-lightning",
+			"name": "Chain Lightning",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 452,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:circle-of-death",
+			"name": "Circle of Death",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 453,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-fey",
+			"name": "Conjure Fey",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 454,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:contingency",
+			"name": "Contingency",
+			"school": "Evocation",
+			"casting_time": "10 Minutes",
+			"spell_range": "Self",
+			"duration": "10 days",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 455,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:create-homunculus",
+			"name": "Create Homunculus",
+			"school": "Transmutation",
+			"casting_time": "1 Hour",
+			"spell_range": "120 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 456,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:create-undead",
+			"name": "Create Undead",
+			"school": "Necromancy",
+			"casting_time": "1 Minute",
+			"spell_range": "10 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 457,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:disintegrate",
+			"name": "Disintegrate",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 458,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:drawmijs-instant-summons",
+			"name": "Drawmij's Instant Summons",
+			"school": "Conjuration",
+			"casting_time": "1 Minute R",
+			"spell_range": "Touch",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 459,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:druid-grove",
+			"name": "Druid Grove",
+			"school": "Abjuration",
+			"casting_time": "10 Minutes",
+			"spell_range": "Touch",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 460,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:eyebite",
+			"name": "Eyebite",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 461,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:find-the-path",
+			"name": "Find the Path",
+			"school": "Divination",
+			"casting_time": "1 Minute",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 day",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 462,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fizbans-platinum-shield",
+			"name": "Fizban's Platinum Shield",
+			"school": "Abjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "60ft",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 463,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fizban-s-platinum-shield-ua",
+			"name": "Fizban's Platinum Shield (UA)",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 464,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:flesh-to-stone",
+			"name": "Flesh to Stone",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 465,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:forbiddance",
+			"name": "Forbiddance",
+			"school": "Abjuration",
+			"casting_time": "10 Minutes R",
+			"spell_range": "Touch",
+			"duration": "1 day",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 466,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:globe-of-invulnerability",
+			"name": "Globe of Invulnerability",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (10-foot radius)",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 467,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:gravity-fissure",
+			"name": "Gravity Fissure",
+			"school": "Evocation DG",
+			"casting_time": "1 Action",
+			"spell_range": "Self (100-foot line)",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 468,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:guards-and-wards",
+			"name": "Guards and Wards",
+			"school": "Abjuration",
+			"casting_time": "10 Minutes",
+			"spell_range": "Touch",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 469,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:harm",
+			"name": "Harm",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 470,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:heal",
+			"name": "Heal",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 471,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:heroes-feast",
+			"name": "Heroes' Feast",
+			"school": "Conjuration",
+			"casting_time": "10 Minutes",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 472,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:investiture-of-flame",
+			"name": "Investiture of Flame",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 473,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:investiture-of-ice",
+			"name": "Investiture of Ice",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 474,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:investiture-of-stone",
+			"name": "Investiture of Stone",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 475,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:investiture-of-wind",
+			"name": "Investiture of Wind",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 476,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:magic-jar",
+			"name": "Magic Jar",
+			"school": "Necromancy",
+			"casting_time": "1 Minute",
+			"spell_range": "Self",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 477,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mass-suggestion",
+			"name": "Mass Suggestion",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "24 hours",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 478,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mental-prison",
+			"name": "Mental Prison",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 479,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:move-earth",
+			"name": "Move Earth",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 2 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 480,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:otherworldly-form",
+			"name": "Otherworldly Form (UA)",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 481,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:otilukes-freezing-sphere",
+			"name": "Otiluke's Freezing Sphere",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "300 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 482,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ottos-irresistible-dance",
+			"name": "Otto's Irresistible Dance",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 483,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:planar-ally",
+			"name": "Planar Ally",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 484,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:primordial-ward",
+			"name": "Primordial Ward",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 485,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:programmed-illusion",
+			"name": "Programmed Illusion",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 486,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:psychic-crush",
+			"name": "Psychic Crush (UA)",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 487,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:scatter",
+			"name": "Scatter",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 488,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:soul-cage",
+			"name": "Soul Cage",
+			"school": "Necromancy",
+			"casting_time": "Special",
+			"spell_range": "60 feet",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 489,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:summon-fiend",
+			"name": "Summon Fiend",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 490,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sunbeam",
+			"name": "Sunbeam",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (60-foot line)",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 491,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tashas-otherworldly-guise",
+			"name": "Tasha's Otherworldly Guise",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 492,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tensers-transformation",
+			"name": "Tenser's Transformation",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 493,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:transport-via-plants",
+			"name": "Transport via Plants",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "10 feet",
+			"duration": "1 round",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 494,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:true-seeing",
+			"name": "True Seeing",
+			"school": "Divination",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 495,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wall-of-ice",
+			"name": "Wall of Ice",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 496,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wall-of-thorns",
+			"name": "Wall of Thorns",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 497,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:widogast-s-transmogrification-hb",
+			"name": "Widogast's Transmogrification (HB)",
+			"school": "Transmutation HB",
+			"casting_time": "1 hour",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 498,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wind-walk",
+			"name": "Wind Walk",
+			"school": "Transmutation",
+			"casting_time": "1 Minute",
+			"spell_range": "30 feet",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 499,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:word-of-recall",
+			"name": "Word of Recall",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "5 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 500,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-celestial",
+			"name": "Conjure Celestial",
+			"school": "Conjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "90 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 501,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:conjure-hezrou",
+			"name": "Conjure Hezrou (UA)",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 502,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:create-magen",
+			"name": "Create Magen",
+			"school": "Transmutation",
+			"casting_time": "1 Hour",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 503,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:crown-of-stars",
+			"name": "Crown of Stars",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 504,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:delayed-blast-fireball",
+			"name": "Delayed Blast Fireball",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 505,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:divine-word",
+			"name": "Divine Word",
+			"school": "Evocation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "30 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 506,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:draconic-transformation",
+			"name": "Draconic Transformation",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 507,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:draconic-transformation-ua",
+			"name": "Draconic Transformation (UA)",
+			"school": "Transmutation",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 508,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dream-of-the-blue-veil",
+			"name": "Dream of the Blue Veil",
+			"school": "Conjuration",
+			"casting_time": "10 minutes",
+			"spell_range": "20 feet",
+			"duration": "6 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 509,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:etherealness",
+			"name": "Etherealness",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Up to 8 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 510,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:finger-of-death",
+			"name": "Finger of Death",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 511,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:fire-storm",
+			"name": "Fire Storm",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 512,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:forcecage",
+			"name": "Forcecage",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "100 feet",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 513,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mirage-arcane",
+			"name": "Mirage Arcane",
+			"school": "Illusion",
+			"casting_time": "10 Minutes",
+			"spell_range": "Sight",
+			"duration": "10 days",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 514,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mordenkainens-magnificent-mansion",
+			"name": "Mordenkainen's Magnificent Mansion",
+			"school": "Conjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "300 feet",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 515,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mordenkainens-sword",
+			"name": "Mordenkainen's Sword",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 516,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:plane-shift",
+			"name": "Plane Shift",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 517,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:power-word-pain",
+			"name": "Power Word: Pain",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 518,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:prismatic-spray",
+			"name": "Prismatic Spray",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Self (60-foot cone)",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 519,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:project-image",
+			"name": "Project Image",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "500 Miles",
+			"duration": "Concentration, up to 1 day",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 520,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:regenerate",
+			"name": "Regenerate",
+			"school": "Transmutation",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 521,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:resurrection",
+			"name": "Resurrection",
+			"school": "Necromancy",
+			"casting_time": "1 Hour",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 522,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:reverse-gravity",
+			"name": "Reverse Gravity",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "100 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 523,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sequester",
+			"name": "Sequester",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 524,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:simulacrum",
+			"name": "Simulacrum",
+			"school": "Illusion",
+			"casting_time": "12 hours",
+			"spell_range": "Touch",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 525,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:symbol",
+			"name": "Symbol",
+			"school": "Abjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "Until dispelled or triggered",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 526,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:teleport",
+			"name": "Teleport",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "10 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 527,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:temple-of-the-gods",
+			"name": "Temple of the Gods",
+			"school": "Conjuration",
+			"casting_time": "1 hour",
+			"spell_range": "120 feet",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 528,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tether-essence",
+			"name": "Tether Essence",
+			"school": "Necromancy D",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 529,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:whirlwind",
+			"name": "Whirlwind",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "300 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 530,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:abi-dalzims-horrid-wilting",
+			"name": "Abi-Dalzim's Horrid Wilting",
+			"school": "Necromancy",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 531,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:animal-shapes",
+			"name": "Animal Shapes",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 24 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 532,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:antimagic-field",
+			"name": "Antimagic Field",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self (10-foot radius sphere)",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 533,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:antipathy-sympathy",
+			"name": "Antipathy/Sympathy",
+			"school": "Enchantment",
+			"casting_time": "1 Hour",
+			"spell_range": "60 feet",
+			"duration": "10 Days",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 534,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:clone",
+			"name": "Clone",
+			"school": "Necromancy",
+			"casting_time": "1 Hour",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 535,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:control-weather",
+			"name": "Control Weather",
+			"school": "Transmutation",
+			"casting_time": "10 Minutes",
+			"spell_range": "Self (5 mile radius)",
+			"duration": "Concentration, Up to 8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 536,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dark-star",
+			"name": "Dark Star",
+			"school": "Evocation DG",
+			"casting_time": "1 Action",
+			"spell_range": "150 Feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 537,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:demiplane",
+			"name": "Demiplane",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "1 hour",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 538,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:dominate-monster",
+			"name": "Dominate Monster",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 539,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:earthquake",
+			"name": "Earthquake",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "500 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 540,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:feeblemind",
+			"name": "Feeblemind",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 541,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:glibness",
+			"name": "Glibness",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "1 hour",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 542,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:holy-aura",
+			"name": "Holy Aura",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 543,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:illusory-dragon",
+			"name": "Illusory Dragon",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 544,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:incendiary-cloud",
+			"name": "Incendiary Cloud",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 545,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:maddening-darkness",
+			"name": "Maddening Darkness",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 546,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:maze",
+			"name": "Maze",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 547,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mighty-fortress",
+			"name": "Mighty Fortress",
+			"school": "Conjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "1 mile",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 548,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mind-blank",
+			"name": "Mind Blank",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "24 hours",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 549,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:power-word-stun",
+			"name": "Power Word: Stun",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 550,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:reality-break",
+			"name": "Reality Break",
+			"school": "Conjuration DC",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 551,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:sunburst",
+			"name": "Sunburst",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "150 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 552,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:telepathy",
+			"name": "Telepathy",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Unlimited",
+			"duration": "24 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 553,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:tsunami",
+			"name": "Tsunami",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Sight",
+			"duration": "Concentration, up to 6 rounds",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 554,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:astral-projection",
+			"name": "Astral Projection",
+			"school": "Evocation",
+			"casting_time": "1 Hour",
+			"spell_range": "10 feet",
+			"duration": "Special",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 555,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:blade-of-disaster",
+			"name": "Blade of Disaster",
+			"school": "Conjuration",
+			"casting_time": "1 Bonus Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 556,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:foresight",
+			"name": "Foresight",
+			"school": "Divination",
+			"casting_time": "1 Minute",
+			"spell_range": "Touch",
+			"duration": "8 hours",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 557,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:gate",
+			"name": "Gate",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 558,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:imprisonment",
+			"name": "Imprisonment",
+			"school": "Abjuration",
+			"casting_time": "1 Minute",
+			"spell_range": "30 feet",
+			"duration": "Until dispelled",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 559,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:invulnerability",
+			"name": "Invulnerability",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 10 minutes",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 560,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mass-heal",
+			"name": "Mass Heal",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 561,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:mass-polymorph",
+			"name": "Mass Polymorph",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 562,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:meteor-swarm",
+			"name": "Meteor Swarm",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "1 mile",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 563,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:power-word-heal",
+			"name": "Power Word: Heal",
+			"school": "Evocation",
+			"casting_time": "1 Action",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 564,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:power-word-kill",
+			"name": "Power Word: Kill",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 565,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:prismatic-wall",
+			"name": "Prismatic Wall",
+			"school": "Abjuration",
+			"casting_time": "1 Action",
+			"spell_range": "60 feet",
+			"duration": "10 minutes",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 566,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:psychic-scream",
+			"name": "Psychic Scream",
+			"school": "Enchantment",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Instantaneous",
+			"components": "S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 567,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:ravenous-void",
+			"name": "Ravenous Void",
+			"school": "Evocation DG",
+			"casting_time": "1 Action",
+			"spell_range": "1,000 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 568,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:shapechange",
+			"name": "Shapechange",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 569,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:storm-of-vengeance",
+			"name": "Storm of Vengeance",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Sight",
+			"duration": "Concentration up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 570,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:time-ravage",
+			"name": "Time Ravage",
+			"school": "Necromancy DC",
+			"casting_time": "1 Action",
+			"spell_range": "90 feet",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 571,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:time-stop",
+			"name": "Time Stop",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 572,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:true-polymorph",
+			"name": "True Polymorph",
+			"school": "Transmutation",
+			"casting_time": "1 Action",
+			"spell_range": "30 feet",
+			"duration": "Concentration, up to 1 hour",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 573,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:true-resurrection",
+			"name": "True Resurrection",
+			"school": "Necromancy",
+			"casting_time": "1 Hour",
+			"spell_range": "Touch",
+			"duration": "Instantaneous",
+			"components": "V, S, M"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 574,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:weird",
+			"name": "Weird",
+			"school": "Illusion",
+			"casting_time": "1 Action",
+			"spell_range": "120 feet",
+			"duration": "Concentration, up to 1 minute",
+			"components": "V, S"
+		}
+	},
+	{
+		"model": "feedapp.spell",
+		"pk": 575,
+		"fields": {
+			"url": "http://dnd5e.wikidot.com/spell:wish",
+			"name": "Wish",
+			"school": "Conjuration",
+			"casting_time": "1 Action",
+			"spell_range": "Self",
+			"duration": "Instantaneous",
+			"components": "V"
+		}
+	}
+]

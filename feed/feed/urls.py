@@ -19,6 +19,6 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     # include the urls registered in the feedapp/urls file
-    path('', include('feedapp.urls')),
+    # path('', include('feedapp.urls')),
     path('', include('social_django.urls')),
 ]
