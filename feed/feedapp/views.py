@@ -2,25 +2,32 @@ from django.shortcuts import render, redirect
 from django.contrib.auth import logout as django_logout, get_user_model
 from django.conf import settings
 from django.contrib.auth.decorators import login_required, permission_required
-from .forms import PostForm
 from .models import User
 from django.db.models import Count
 from datetime import datetime
+from .forms import CharacterForm
+from .utils import create_spell_slots
 
-# def index(request):
-# 	if request.method == 'POST':
-# 		form = PostForm(request.POST)
-# 		if form.is_valid():
-# 			post = form.save(commit=False)
-# 			post.user = request.user 
-# 			post.save()
-# 			return redirect('index')
-# 	else:
-# 		form = PostForm()
-# 		posts = Post.objects.filter(hidden=False).order_by('-date_posted').all()
-# 		context = {'form' : form, 'posts' : posts}
-	
-# 	return render(request, 'feedapp/index.html', context)
+
+def index(request):
+    return render(request, "feedapp/index.html")
+
+
+@login_required
+def create_character(request):
+    if request.method == "POST":
+        form = CharacterForm(request.POST)
+        if form.is_valid():
+            character = form.save(commit=False)
+            character.user = request.user
+            character.save()
+            create_spell_slots(character)
+
+            return redirect("index")
+    else:
+        form = CharacterForm()
+    return render(request, "feedapp/create_character.html", {"form": form})
+
 
 # @permission_required('feedapp.view_report', raise_exception=True)
 # def reports(request):

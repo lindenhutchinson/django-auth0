@@ -1,1 +1,114 @@
-[{"model": "feedapp.classtype", "pk": 1, "fields": {"name": "Artificer", "has_spells": true}}, {"model": "feedapp.classtype", "pk": 2, "fields": {"name": "Barbarian", "has_spells": false}}, {"model": "feedapp.classtype", "pk": 3, "fields": {"name": "Bard", "has_spells": true}}, {"model": "feedapp.classtype", "pk": 4, "fields": {"name": "Blood Hunter (Homebrew)", "has_spells": false}}, {"model": "feedapp.classtype", "pk": 5, "fields": {"name": "Cleric", "has_spells": true}}, {"model": "feedapp.classtype", "pk": 6, "fields": {"name": "Druid", "has_spells": true}}, {"model": "feedapp.classtype", "pk": 7, "fields": {"name": "Fighter", "has_spells": false}}, {"model": "feedapp.classtype", "pk": 8, "fields": {"name": "Monk", "has_spells": false}}, {"model": "feedapp.classtype", "pk": 9, "fields": {"name": "Paladin", "has_spells": true}}, {"model": "feedapp.classtype", "pk": 10, "fields": {"name": "Ranger", "has_spells": true}}, {"model": "feedapp.classtype", "pk": 11, "fields": {"name": "Rogue", "has_spells": false}}, {"model": "feedapp.classtype", "pk": 12, "fields": {"name": "Sorcerer", "has_spells": true}}, {"model": "feedapp.classtype", "pk": 13, "fields": {"name": "Warlock", "has_spells": false}}, {"model": "feedapp.classtype", "pk": 14, "fields": {"name": "Wizard", "has_spells": true}}]
+[
+	{
+		"model": "feedapp.classtype",
+		"pk": 1,
+		"fields": {
+			"name": "Artificer",
+			"has_spells": true
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 2,
+		"fields": {
+			"name": "Barbarian",
+			"has_spells": false
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 3,
+		"fields": {
+			"name": "Bard",
+			"has_spells": true
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 4,
+		"fields": {
+			"name": "Blood Hunter (Homebrew)",
+			"has_spells": false
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 5,
+		"fields": {
+			"name": "Cleric",
+			"has_spells": true
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 6,
+		"fields": {
+			"name": "Druid",
+			"has_spells": true
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 7,
+		"fields": {
+			"name": "Fighter",
+			"has_spells": false
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 8,
+		"fields": {
+			"name": "Monk",
+			"has_spells": false
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 9,
+		"fields": {
+			"name": "Paladin",
+			"has_spells": true
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 10,
+		"fields": {
+			"name": "Ranger",
+			"has_spells": true
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 11,
+		"fields": {
+			"name": "Rogue",
+			"has_spells": false
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 12,
+		"fields": {
+			"name": "Sorcerer",
+			"has_spells": true
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 13,
+		"fields": {
+			"name": "Warlock",
+			"has_spells": false
+		}
+	},
+	{
+		"model": "feedapp.classtype",
+		"pk": 14,
+		"fields": {
+			"name": "Wizard",
+			"has_spells": true
+		}
+	}
+]

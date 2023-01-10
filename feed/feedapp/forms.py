@@ -1,11 +1,12 @@
-from django.forms import ModelForm, TextInput
+from django import forms
+from .models import Character, Race, ClassType
 
-# from .models import Post
 
-# class PostForm(ModelForm):
-#   class Meta:
-#     model = Post
-#     fields = ['text']
-#     widgets = {
-#       'text': TextInput(attrs={'class' : 'input', 'placeholder' : 'Say something...'}),
-#     }
+class CharacterForm(forms.ModelForm):
+    class Meta:
+        model = Character
+        fields = ["name", "level", "race", "class_type"]
+
+    # Restrict the race and class_type fields to the choices in the database
+    race = forms.ModelChoiceField(queryset=Race.objects.all())
+    class_type = forms.ModelChoiceField(queryset=ClassType.objects.all())

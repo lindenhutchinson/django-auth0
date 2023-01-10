@@ -1,7 +1,7 @@
 from django.db import models
 from django.conf import settings
 from django.contrib.auth.models import AbstractUser
-from .utils import create_spell_slots
+import copy
 
 
 class User(AbstractUser):
@@ -11,36 +11,29 @@ class User(AbstractUser):
 class Race(models.Model):
     name = models.CharField(max_length=280)
     url = models.CharField(max_length=280)
- 
+
+    def __str__(self):
+        return self.name
+
 
 class ClassType(models.Model):
     name = models.CharField(max_length=280)
     url = models.CharField(max_length=280)
     has_spells = models.BooleanField()
 
+    def __str__(self):
+        return self.name
+
 
 class Character(models.Model):
     user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     name = models.CharField(max_length=280)
-    level = models.IntegerField()
-    class_type = models.ManyToManyField(ClassType, through='CharacterClass')
+    level = models.IntegerField()    
+    class_type = models.ForeignKey(ClassType, on_delete=models.CASCADE)
     race = models.ForeignKey(Race, on_delete=models.CASCADE)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
     hidden = models.BooleanField(default=False)
-
-    def save(self, *args, **kwargs):
-        # create spell slots for the character when it is first created
-        if self.pk is None:
-            # create spell slots for the character
-            create_spell_slots(self)
-
-        super().save(*args, **kwargs)
-
-
-class CharacterClass(models.Model):
-    character = models.ForeignKey(Character, on_delete=models.CASCADE)
-    class_type = models.ForeignKey(ClassType, on_delete=models.CASCADE)
 
 
 class Backstory(models.Model):
