@@ -16,11 +16,12 @@ def index(request):
 
 @login_required
 def character_detail(request, pk):
-    character = Character.objects.filter(pk=pk)
+    character = Character.objects.filter(pk=pk).first()
     if request.user != character.user:
         return redirect("forbidden")
 
-    pass
+    context = {"char": character}
+    return render(request, "feedapp/character_detail.html", context)
 
 
 @login_required
@@ -54,7 +55,7 @@ def character_delete(request, pk):
 
 @login_required
 def character_list(request):
-    data = Character.objects.filter(user=request.user).order_by("created_at")
+    data = Character.objects.filter(user=request.user).order_by("created_at").reverse()
     table = CharacterTable(data)
     table.paginate(page=request.GET.get("page", 1), per_page=5)
     return render(request, "feedapp/character_list.html", {"table": table})

@@ -3,7 +3,7 @@
 {% block table-wrapper %}
 <div >
     {% block table %}
-        <table {% render_attrs table.attrs class="table" style="table-layout:fixed;" %}>
+        <table {% render_attrs table.attrs class="table" style="table-layout:fixed;"%}>
             {% block table.thead %}
             {% if table.show_header %}
                 <thead {{ table.attrs.thead.as_html }}>

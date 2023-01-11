@@ -1,0 +1,9 @@
+{% extends 'feedapp/base.html' %}
+{% load humanize %} <!-- at the top after extends -->
+{% block title %}{{char.name}} | Character Detail{% endblock %}
+{% block main_title %}{{char.name}}{% endblock %}
+{% block sub_title %}A level {{char.level}} {{char.race}} {{char.class_type}}{% endblock %}
+{% block content %}
+hello {{char.name}}
+
+{% endblock %}
