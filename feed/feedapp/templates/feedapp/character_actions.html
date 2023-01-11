@@ -1,0 +1,4 @@
+<div>
+    <a href="{% url 'character_edit' record.pk %}" class="btn btn-primary btn-sm">Edit</a>
+    <a href="{% url 'character_delete' record.pk %}" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this character?');">Delete</a>
+</div>
