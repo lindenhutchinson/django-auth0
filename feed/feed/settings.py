@@ -68,7 +68,8 @@ INSTALLED_APPS = [
     "django.contrib.humanize",
     "bootstrap5",
     "django_tables2",
-    "django_extensions"
+    "django_extensions",
+    "fontawesomefree"
 ]
 
 MIDDLEWARE = [

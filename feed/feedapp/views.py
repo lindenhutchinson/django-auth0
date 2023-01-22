@@ -21,8 +21,8 @@ def character_detail(request, pk):
     character = Character.objects.filter(pk=pk).first()
     if request.user != character.user:
         return redirect("forbidden")
-
-    spells = Spell.objects.all()
+    search_term = request.GET.get('search', '')
+    spells = Spell.objects.filter(name__icontains=search_term)
     # Create a paginator object with a specified number of items per page
     paginator = Paginator(spells, 10)
     # Get the current page number from the request
@@ -30,7 +30,7 @@ def character_detail(request, pk):
 
     # Get the spells for the current page
     spells = paginator.get_page(page_number)
-    context = {"char": character, "spells": spells}
+    context = {"char": character, "spells": spells, 'search_term': search_term}
     return render(request, "feedapp/character_detail.html", context)
 
 
@@ -102,4 +102,4 @@ def logout(request):
 @login_required
 def spell_description(request, spell_id):
     spell = Spell.objects.get(id=spell_id)
-    return JsonResponse({"description": spell.components})
+    return JsonResponse({"description": spell.description})

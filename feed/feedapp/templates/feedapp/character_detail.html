@@ -22,15 +22,19 @@ hello {{char.name}}
 <table class="table table-hover table-dark">
 	<thead class="table-light">
 		<th>Name</th>
+		<th>Level</th>
 		<th>School</th>
 		<th>Classes</th>
+		<th></th>
 	</thead>
 	<tbody class="">
     {% for spell in spells %}
       <tr data-spell-id="{{spell.id}}">
         <td>{{spell.name}}</td>
+        <td>{{spell.level}}</td>
 		<td>{{spell.school}}</td>
 		<td>{{ spell.classes.all|join:", "}}</td>
+		<td id="icon_{{spell.id}}"><span style="color:white"><i class="bi bi-caret-down-fill"></i></span></td>
       </tr>
 
     {% endfor %}
@@ -66,6 +70,9 @@ hello {{char.name}}
 </nav>
   <script>
 $(document).ready(function() {
+	const downArrow = '<span style="color:white"><i class="bi bi-caret-down-fill"></i></span>';
+	const upArrow = '<span style="color:white"><i class="bi bi-caret-up-fill"></i></span';
+
 	var prevClickedRowId = null;
     $("tbody").on("click", "tr", function() {
 		 // Get the ID of the currently clicked row
@@ -74,14 +81,15 @@ $(document).ready(function() {
         var prevExpandedRow = $(".expanded-row");
 		var prevClickedRow = $(".clicked-row");
 
-		prevClickedRow.removeClass('clicked-row')
-
+		prevClickedRow.removeClass('clicked-row');
+		$(`#icon_${prevClickedRowId}`).html(downArrow);
 		// If the clicked row is the previously expanded row, slide it up and exit the function
 		if (currentClickedRowId === prevClickedRowId) {
 			prevExpandedRow.slideUp(50);
 			prevClickedRowId = null;
 			return;
 		}
+		$(`#icon_${currentClickedRowId}`).html(upArrow);
 		// Update the previously clicked row ID
 		prevClickedRowId = currentClickedRowId;
 		$(this).addClass('clicked-row');

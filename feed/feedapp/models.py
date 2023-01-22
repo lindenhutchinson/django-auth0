@@ -50,7 +50,7 @@ class Backstory(models.Model):
 class Spell(models.Model):
     name = models.CharField(max_length=128)
     url = models.CharField(max_length=280)
-    # level = models.IntegerField()
+    level = models.IntegerField()
     casting_time = models.CharField(max_length=128)
     duration = models.CharField(max_length=128)
     school = models.CharField(max_length=128)
@@ -59,8 +59,8 @@ class Spell(models.Model):
 
     # TODO: these fields should be filled by further scraping
     # source = models.CharField(max_length=256)
-    # description = models.TextField()
-    # at_higher_levels = models.TextField()
+    description = models.TextField()
+    at_higher_levels = models.TextField()
 
     classes = models.ManyToManyField(ClassType, through="SpellClass")
 
