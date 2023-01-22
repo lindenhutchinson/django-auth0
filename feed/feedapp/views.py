@@ -2,12 +2,14 @@ from django.shortcuts import render, redirect
 from django.contrib.auth import logout as django_logout, get_user_model
 from django.conf import settings
 from django.contrib.auth.decorators import login_required, permission_required
-from .models import User, Character
+from .models import User, Character, Spell
 from django.db.models import Count
 from datetime import datetime
 from .forms import CharacterForm
 from .utils import create_spell_slots
 from .tables import CharacterTable
+from django.http import JsonResponse
+from django.core.paginator import Paginator
 
 
 def index(request):
@@ -20,7 +22,15 @@ def character_detail(request, pk):
     if request.user != character.user:
         return redirect("forbidden")
 
-    context = {"char": character}
+    spells = Spell.objects.all()
+    # Create a paginator object with a specified number of items per page
+    paginator = Paginator(spells, 10)
+    # Get the current page number from the request
+    page_number = request.GET.get("page")
+
+    # Get the spells for the current page
+    spells = paginator.get_page(page_number)
+    context = {"char": character, "spells": spells}
     return render(request, "feedapp/character_detail.html", context)
 
 
@@ -58,6 +68,7 @@ def character_list(request):
     data = Character.objects.filter(user=request.user).order_by("created_at").reverse()
     table = CharacterTable(data)
     table.paginate(page=request.GET.get("page", 1), per_page=5)
+
     return render(request, "feedapp/character_list.html", {"table": table})
 
 
@@ -86,3 +97,9 @@ def logout(request):
     return redirect(
         f"https://{domain}/v2/logout?client_id={client_id}&returnTo={return_to}"
     )
+
+
+@login_required
+def spell_description(request, spell_id):
+    spell = Spell.objects.get(id=spell_id)
+    return JsonResponse({"description": spell.components})

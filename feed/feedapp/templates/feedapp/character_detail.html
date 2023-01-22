@@ -1,9 +1,133 @@
 {% extends 'feedapp/base.html' %}
+
 {% load humanize %} <!-- at the top after extends -->
-{% block title %}{{char.name}} | Character Detail{% endblock %}
-{% block main_title %}{{char.name}}{% endblock %}
-{% block sub_title %}A level {{char.level}} {{char.race}} {{char.class_type}}{% endblock %}
+
+{% block title %}
+{{char.name}} | Character Detail 
+{% endblock %}
+
+{% block main_title %} 
+{{char.name}} 
+{% endblock %}
+
+{% block sub_title %}
+A level {{char.level}} {{char.race}} {{char.class_type}}
+{% endblock %}
+
 {% block content %}
+
+
 hello {{char.name}}
 
+<table class="table table-hover table-dark">
+	<thead class="table-light">
+		<th>Name</th>
+		<th>School</th>
+		<th>Classes</th>
+	</thead>
+	<tbody class="">
+    {% for spell in spells %}
+      <tr data-spell-id="{{spell.id}}">
+        <td>{{spell.name}}</td>
+		<td>{{spell.school}}</td>
+		<td>{{ spell.classes.all|join:", "}}</td>
+      </tr>
+
+    {% endfor %}
+</tbody>
+
+  </table>
+  <nav>
+    <ul class="pagination justify-content-center">
+		<li style="margin-right: auto" class="page-item" ><a class="page-link" href="?page=1">First</a></li>
+
+        {% if spells.has_previous %}
+            <li class="page-item" ><a class="page-link" href="?page={{ spells.previous_page_number }}"><span aria-hidden="true">&laquo;</span></a></li>
+        {% endif %}
+
+        {% for page in spells.paginator.page_range %}
+            {% if page == spells.number %}
+                <li class="page-item active" aria-current="page">
+                    <span class="page-link">{{ page }}</span>
+                </li>
+            {% elif page < spells.number|add:10 and page > spells.number|add:-10 %}
+                <li class="page-item">
+                    <a class="page-link" href="?page={{ page }}">{{ page }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+
+        {% if spells.has_next %}
+            <li class="page-item" ><a class="page-link" href="?page={{ spells.next_page_number }}"><span aria-hidden="true">&raquo;</span></a></li>
+		{% endif %}
+		<li  style="margin-left: auto"  class="page-item" ><a class="page-link" href="?page={{ spells.paginator.num_pages }}">Last</a></li>
+    </ul
+>
+</nav>
+  <script>
+$(document).ready(function() {
+	var prevClickedRowId = null;
+    $("tbody").on("click", "tr", function() {
+		 // Get the ID of the currently clicked row
+		 var currentClickedRowId = $(this).data("spell-id");
+        // Get the previously expanded row
+        var prevExpandedRow = $(".expanded-row");
+		var prevClickedRow = $(".clicked-row");
+
+		prevClickedRow.removeClass('clicked-row')
+
+		// If the clicked row is the previously expanded row, slide it up and exit the function
+		if (currentClickedRowId === prevClickedRowId) {
+			prevExpandedRow.slideUp(50);
+			prevClickedRowId = null;
+			return;
+		}
+		// Update the previously clicked row ID
+		prevClickedRowId = currentClickedRowId;
+		$(this).addClass('clicked-row');
+
+        // Clear any previously expanded rows
+        prevExpandedRow.slideUp(50, function() {
+           $(this).remove();
+        });
+
+		
+        // Get the spell ID from the clicked row
+        var spellId = $(this).data("spell-id");
+		var $clickedRow = $(this);
+        // Make the AJAX call to get the spell information
+        $.ajax({
+            url: "/api/spells/" + spellId + "/description",
+            type: "GET",
+            success: function(data) {
+                // Insert a new row below the clicked row with the spell information
+                $clickedRow.after("<tr class='expanded-row'><td colspan='100%'>" + data.description + "</td></tr>");
+				$(".expanded-row").slideDown(100);
+            }
+        });
+
+    });
+});
+
+
+  </script>
+  <style> 
+	.clicked-row {
+		--bs-table-bg:#305274;
+		--bs-table-hover-bg: #4a5f74
+	}
+	.expanded-row{
+		height:0;
+		--bs-table-bg:white;
+		color: black;
+		--bs-table-striped-bg: white;
+		--bs-table-striped-color: white;
+		--bs-table-active-bg: white;
+		--bs-table-active-color: white;
+		--bs-table-hover-bg: white;
+		--bs-table-hover-color: black;
+		border-left: 1px solid #ccc; /* 1px solid gray border */
+		border-right: 1px solid #ccc; /* 1px solid gray border */
+	}
+	</style>
 {% endblock %}

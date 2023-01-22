@@ -9,6 +9,7 @@ urlpatterns = [
     path("character/<pk>/edit", views.character_edit, name="character_edit"),
     path("character/<pk>/delete", views.character_delete, name="character_delete"),
     path('logout/', views.logout, name='logout'),
+    path('api/spells/<int:spell_id>/description/', views.spell_description),
     # 	path('delete/<post_id>/', views.delete_post, name='delete_post'),
     # 	path('report_post/<post_id>/', views.report_post, name='report_post'),
     # 	path('hide_post/<post_id>/', views.hide_post, name='hide_post'),

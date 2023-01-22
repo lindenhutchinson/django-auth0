@@ -24,11 +24,14 @@ class ClassType(models.Model):
     def __str__(self):
         return self.name
 
+    def __repr__(self):
+        return self.name
+
 
 class Character(models.Model):
     user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
     name = models.CharField(max_length=280)
-    level = models.IntegerField()    
+    level = models.IntegerField()
     class_type = models.ForeignKey(ClassType, on_delete=models.CASCADE)
     race = models.ForeignKey(Race, on_delete=models.CASCADE)
     created_at = models.DateTimeField(auto_now_add=True)
