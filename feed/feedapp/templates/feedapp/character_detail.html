@@ -21,7 +21,7 @@ Level {{char.level}} {{char.race}} {{char.class_type}}
 	<div class="row">
 		<div class="col-5">
 			<div class="form-group">
-				<input value="{{search_term}}" class="form-control" type="search" placeholder="Search for spell" aria-label="Search" name="search">
+				<input value="{{search_term}}" class="form-control" type="search" placeholder="Search for a spell" aria-label="Search" name="search">
 			</div>
 		</div>
 		<div class="col d-grid">
@@ -72,20 +72,41 @@ Level {{char.level}} {{char.race}} {{char.class_type}}
 {% if spells|length %}
 <table class="table table-hover table-dark spell-table">
 	<thead class="table-light">
-		<th>Name</th>
-		<th>Level</th>
-		<th>School</th>
-		<th>Classes</th>
+			{% for header, header_opts in table_headers.items %}
+			<th class="{{header_opts.class}}">
+				<a class="text-black" href="{% url 'character_detail' char.id %}?sort={{header}}&order={% if sort == header and order == 'asc' %}desc{% else %}asc{% endif %}">
+					{{header_opts.display}}
+					<span class="ml-1">
+
+					{% if sort == header %}
+						{% if order == 'desc' %}
+						<i class="bi bi-caret-down-fill"></i>
+
+						{% else %}
+						<i class="bi bi-caret-up-fill"></i>
+
+						{% endif %}
+					{% endif %}
+					</span>
+
+				</a>
+			</th>
+			{% endfor %}
+		{% comment %} <th>Classes</th> {% endcomment %}
 		<th></th>
 	</thead>
 	<tbody class="">
     {% for spell in spells %}
       <tr class="spell-row" data-spell-id="{{spell.id}}">
         <td>{{spell.name}}</td>
-        <td>{{spell.level}}</td>
+        <td class="center-td">{{spell.level}}</td>
 		<td>{{spell.school}}</td>
-		<td>{{ spell.classes.all|join:", "}}</td>
-		<td id="icon_{{spell.id}}"><span style="color:white"><i class="bi bi-caret-down-fill"></i></span></td>
+		<td class="center-td">{{spell.casting_time}}</td>
+		<td>{{spell.spell_range}}</td>
+		{% comment %} <td>{{spell.components}}</td>
+		<td>{{spell.duration}}</td> {% endcomment %}
+		{% comment %} <td>{{ spell.classes.all|join:", "}}</td> {% endcomment %}
+		<td id="icon_{{spell.id}}"><span class="expand-icon" style="color:white"><i class="bi bi-caret-down-fill"></i></span></td>
       </tr>
 
     {% endfor %}
@@ -93,7 +114,7 @@ Level {{char.level}} {{char.race}} {{char.class_type}}
 
 </table>
   <nav>
-    <ul class="pagination justify-content-center">
+    <ul id="pagination" class="pagination justify-content-center">
 		<li style="margin-right: auto" class="page-item" ><a class="page-link" href="?page=1">First</a></li>
 
         {% if spells.has_previous %}
@@ -125,9 +146,37 @@ No spells found...
   <script>
 
 $(document).ready(function() {
-	const downArrow = '<span style="color:white"><i class="bi bi-caret-down-fill"></i></span>';
-	const upArrow = '<span style="color:white"><i class="bi bi-caret-up-fill"></i></span';
+	// Get the current filter, search and pagination values
+	var search = $("input[name='search']").val();
+	var school = $("select[name='school']").val();
+	var level = $("select[name='level']").val();
+	var class_type = $("select[name='class']").val();
+	var sort = "{{sort}}";
+	var order = "{{order}}"
 
+	$("#pagination a").click(function(e) {
+		// Append the filter, search and pagination values to the GET request URL
+		var url = $(this).attr("href") + "&search=" + search + "&school=" + school + "&level=" + level + "&class=" + class_type+ "&sort=" + sort+"&order=" + order;
+		// Update the href attribute of the clicked link
+		$(this).attr("href", url);
+	});
+
+
+	// Add a click listener to the table headers
+	$("th").click(function(e) {
+		// Get the current sort value
+		var sort = $(this).data("sort");
+		// Get the current order value
+		var order = $(this).data("order");
+		// Append the filter, search and pagination values to the GET request URL
+		var url = $(this).attr("href") + "&search=" + search + "&school=" + school + "&level=" + level + "&class=" + class_type;
+		// Update the href attribute of the clicked link
+		$(this).attr("href", url);
+	});
+
+
+	const downArrow = '<span class="expand-icon" style="color:white"><i class="bi bi-caret-down-fill"></i></span>';
+	const upArrow = '<span class="expand-icon" style="color:white"><i class="bi bi-caret-up-fill"></i></span';
 	var prevClickedRowId = null;
     $(".spell-row").on("click", function() {
 		 // Get the ID of the currently clicked row
@@ -175,10 +224,26 @@ $(document).ready(function() {
 
   </script>
   <style> 
-
+	.text-black {
+		color:black;
+		text-decoration: none;
+	}
+	.center-td {
+		text-align:center;
+	}
+	.widthy-td {
+		width:200px;
+	}
+	.expand-icon {
+		float:right;
+		margin-right:5px;
+	}
+	.spell-table th {
+		width:160px;
+	}
 	.clicked-row {
-		--bs-table-bg:#305274;
-		--bs-table-hover-bg: #4a5f74
+		--bs-table-hover-bg:#305274;
+		--bs-table-bg: #4a5f74
 	}
 	.expanded-row{
 		height:0;

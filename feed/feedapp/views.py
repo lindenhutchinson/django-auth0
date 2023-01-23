@@ -11,6 +11,16 @@ from .tables import CharacterTable
 from django.http import JsonResponse
 from django.core.paginator import Paginator
 
+SPELL_TABLE_HEADERS = {
+    "name": {"display": "Name", "class": "widthy-td"},
+    "level": {"display": "Level", "class": "center-td"},
+    "school": {"display": "School", "class": ""},
+    "casting_time": {"display": "Casting Time", "class": "center-td"},
+    "spell_range": {"display": "Range", "class": ""},
+    # "components": {"display": "Components", "class": "center-td"},
+    # "duration": {"display": "Duration", "class": "widthy-td"},
+}
+
 
 def index(request):
     return render(request, "feedapp/index.html")
@@ -25,7 +35,8 @@ def character_detail(request, pk):
     class_filter = request.GET.get("class", "")
     school_filter = request.GET.get("school", "")
     level_filter = request.GET.get("level", "")
-
+    sort = request.GET.get("sort", "")
+    order = request.GET.get("order", "")
     spells = Spell.objects.all()
     if search_term:
         spells = Spell.objects.filter(name__icontains=search_term)
@@ -36,6 +47,8 @@ def character_detail(request, pk):
         spells = spells.filter(school__exact=school_filter)
     if level_filter:
         spells = spells.filter(level__exact=level_filter)
+    if sort and order:
+        spells = spells.order_by(f"{'-' if order == 'desc' else ''}{sort}")
 
     # Get all unique classes, schools, and levels
     classes = (
@@ -47,10 +60,11 @@ def character_detail(request, pk):
     levels = Spell.objects.values_list("level", flat=True).distinct()
 
     num_spells = spells.count
-    
+
     paginator = Paginator(spells, 10)
     page = request.GET.get("page")
     spells = paginator.get_page(page)
+
     context = {
         "char": character,
         "spells": spells,
@@ -61,7 +75,10 @@ def character_detail(request, pk):
         "class_filter": class_filter,
         "school_filter": school_filter,
         "level_filter": level_filter,
-        "num_spells": num_spells
+        "num_spells": num_spells,
+        "sort": sort,
+        "order": order,
+        "table_headers": SPELL_TABLE_HEADERS,
     }
     return render(request, "feedapp/character_detail.html", context)
 
