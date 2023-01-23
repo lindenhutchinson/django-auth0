@@ -11,15 +11,66 @@
 {% endblock %}
 
 {% block sub_title %}
-A level {{char.level}} {{char.race}} {{char.class_type}}
+Level {{char.level}} {{char.race}} {{char.class_type}}
 {% endblock %}
 
 {% block content %}
 
 
-hello {{char.name}}
+<form id="spell-table-form" class="form-inline mb-3" action="{% url 'character_detail' char.id %}" method="get">
+	<div class="row">
+		<div class="col-5">
+			<div class="form-group">
+				<input value="{{search_term}}" class="form-control" type="search" placeholder="Search for spell" aria-label="Search" name="search">
+			</div>
+		</div>
+		<div class="col d-grid">
+			<button class="btn btn btn-outline-success" type="submit">Search</button>
+		</div>
+		<div class="col">
+			<div class="form-group">
+				<select class="form-control" name="class" onchange="this.form.submit()">
+					<option value="">All Classes</option>
+					{% for class in classes %}
+						<option value="{{class}}" {% if class_filter == class %}selected{% endif %}>{{class}}</option>
+					{% endfor %}
+				</select>
+			</div>
+		</div>
+		<div class="col">
+			<div class="form-group">
+				<select class="form-control" name="school" onchange="this.form.submit()">
+					<option value="">All Schools</option>
+					{% for school in schools %}
+						<option value="{{school}}" {% if school_filter == school %}selected{% endif %}>{{school}}</option>
+					{% endfor %}
+				</select>
+			</div>
+		</div>
+		<div class="col">
+			<div class="form-group">
+				<select class="form-control" name="level" onchange="this.form.submit()">
+					<option value="">All Levels</option>
+					{% for level in levels %}
+						<option value="{{level}}" {% if level_filter|add:"0" == level|add:"0" %}selected{% endif %}>{% if level > 0 %}Level {{level}}{% else %}Cantrips{% endif %}</option>
+					{% endfor %}
+				</select>
+			</div>
+		</div>
+		<div class="col d-grid">
+			<a class="btn btn-outline-danger" href="{% url 'character_detail' char.id %}">Clear</a>
+		</div>
+		<div class="col d-flex align-items-center justify-content-center" style="margin:auto">
+			<p class="text-muted" style="font-size: smaller">{{ num_spells }} result{{ num_spells|pluralize }}</p>
+		</div>
+		
+	</div>
+</form>
 
-<table class="table table-hover table-dark">
+  
+
+{% if spells|length %}
+<table class="table table-hover table-dark spell-table">
 	<thead class="table-light">
 		<th>Name</th>
 		<th>Level</th>
@@ -29,7 +80,7 @@ hello {{char.name}}
 	</thead>
 	<tbody class="">
     {% for spell in spells %}
-      <tr data-spell-id="{{spell.id}}">
+      <tr class="spell-row" data-spell-id="{{spell.id}}">
         <td>{{spell.name}}</td>
         <td>{{spell.level}}</td>
 		<td>{{spell.school}}</td>
@@ -40,7 +91,7 @@ hello {{char.name}}
     {% endfor %}
 </tbody>
 
-  </table>
+</table>
   <nav>
     <ul class="pagination justify-content-center">
 		<li style="margin-right: auto" class="page-item" ><a class="page-link" href="?page=1">First</a></li>
@@ -68,13 +119,17 @@ hello {{char.name}}
     </ul
 >
 </nav>
+{% else %}
+No spells found...
+{% endif %}
   <script>
+
 $(document).ready(function() {
 	const downArrow = '<span style="color:white"><i class="bi bi-caret-down-fill"></i></span>';
 	const upArrow = '<span style="color:white"><i class="bi bi-caret-up-fill"></i></span';
 
 	var prevClickedRowId = null;
-    $("tbody").on("click", "tr", function() {
+    $(".spell-row").on("click", function() {
 		 // Get the ID of the currently clicked row
 		 var currentClickedRowId = $(this).data("spell-id");
         // Get the previously expanded row
@@ -120,6 +175,7 @@ $(document).ready(function() {
 
   </script>
   <style> 
+
 	.clicked-row {
 		--bs-table-bg:#305274;
 		--bs-table-hover-bg: #4a5f74
