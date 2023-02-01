@@ -1,0 +1,12290 @@
+[
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 1,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 3,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 6,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 7,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 12,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 14,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 15,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 16,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 20,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 21,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 22,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 23,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 24,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 25,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 30,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 31,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 34,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 35,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 40,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 41,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 42,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 44,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 45,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 51,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 53,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 55,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 62,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 73,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 75,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 77,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 84,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 85,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 86,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 87,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 93,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 105,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 110,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 111,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 117,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 120,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 128,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 131,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 143,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 144,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 145,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 148,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 153,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 158,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 162,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 168,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 169,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 182,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 186,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 188,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 190,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 191,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 194,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 195,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 210,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 211,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 214,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 216,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 220,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 222,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 230,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 233,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 239,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 244,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 246,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 252,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 255,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 256,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 263,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 264,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 265,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 269,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 270,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 272,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 276,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 292,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 296,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 312,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 317,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 318,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 320,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 339,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 341,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 344,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 354,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 356,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 357,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 358,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 367,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 368,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 371,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 381,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 385,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 398,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 399,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 411,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 432,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 442,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 446,
+			"class_type": 1
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 2,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 7,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 13,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 20,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 22,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 24,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 25,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 27,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 31,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 45,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 47,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 48,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 54,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 58,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 66,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 68,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 69,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 71,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 73,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 75,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 77,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 78,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 79,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 81,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 85,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 87,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 95,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 98,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 100,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 105,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 106,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 111,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 116,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 122,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 125,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 126,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 127,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 129,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 130,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 132,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 135,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 136,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 137,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 143,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 146,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 152,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 154,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 156,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 157,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 160,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 163,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 168,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 169,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 170,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 179,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 182,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 183,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 186,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 188,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 189,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 190,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 192,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 193,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 194,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 201,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 204,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 205,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 208,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 211,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 216,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 218,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 219,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 220,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 225,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 226,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 232,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 236,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 238,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 242,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 246,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 247,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 255,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 257,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 259,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 260,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 261,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 269,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 272,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 274,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 276,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 278,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 283,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 284,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 287,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 288,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 290,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 297,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 299,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 300,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 301,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 304,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 313,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 325,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 326,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 327,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 335,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 338,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 344,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 349,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 352,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 355,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 359,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 360,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 361,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 362,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 381,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 383,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 404,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 405,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 410,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 411,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 413,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 418,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 420,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 421,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 422,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 425,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 426,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 427,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 429,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 430,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 432,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 438,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 440,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 460,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 461,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 468,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 471,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 477,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 482,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 485,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 494,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 508,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 509,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 512,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 513,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 514,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 515,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 518,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 519,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 520,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 521,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 525,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 526,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 533,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 538,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 540,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 541,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 548,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 549,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 556,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 561,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 563,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 564,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 565,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 566,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 572,
+			"class_type": 3
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 8,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 16,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 18,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 20,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 24,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 35,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 36,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 41,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 43,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 46,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 49,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 50,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 58,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 60,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 64,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 69,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 72,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 73,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 74,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 75,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 76,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 94,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 95,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 98,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 108,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 115,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 117,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 120,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 124,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 143,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 149,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 152,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 154,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 156,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 158,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 168,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 172,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 178,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 183,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 190,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 193,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 209,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 210,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 219,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 224,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 231,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 236,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 237,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 240,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 241,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 242,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 247,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 252,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 254,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 255,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 259,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 261,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 269,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 275,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 279,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 282,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 284,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 285,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 287,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 292,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 295,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 296,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 297,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 300,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 302,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 303,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 313,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 318,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 321,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 322,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 323,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 333,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 334,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 336,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 344,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 350,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 355,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 367,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 388,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 396,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 401,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 403,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 408,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 410,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 411,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 412,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 414,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 417,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 418,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 420,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 425,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 426,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 429,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 434,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 449,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 456,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 461,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 465,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 469,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 470,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 471,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 480,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 483,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 490,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 494,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 499,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 500,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 505,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 509,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 511,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 516,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 520,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 521,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 525,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 527,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 532,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 535,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 539,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 542,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 551,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 554,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 557,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 560,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 563,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 573,
+			"class_type": 5
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 5,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 6,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 9,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 14,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 16,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 17,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 19,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 23,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 24,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 28,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 30,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 32,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 33,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 35,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 38,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 39,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 44,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 45,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 51,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 54,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 59,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 66,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 72,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 73,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 75,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 76,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 81,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 83,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 85,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 89,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 92,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 95,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 98,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 103,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 110,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 111,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 115,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 117,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 128,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 129,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 135,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 138,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 144,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 146,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 149,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 150,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 151,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 158,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 162,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 166,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 167,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 168,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 169,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 172,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 174,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 175,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 180,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 181,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 182,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 183,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 190,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 192,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 193,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 203,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 207,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 210,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 220,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 223,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 227,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 232,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 234,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 240,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 245,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 248,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 254,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 255,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 256,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 258,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 261,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 263,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 266,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 285,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 290,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 292,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 296,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 298,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 301,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 305,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 311,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 316,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 317,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 318,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 319,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 324,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 325,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 327,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 330,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 332,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 333,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 336,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 337,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 339,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 343,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 344,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 346,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 347,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 351,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 352,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 353,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 355,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 360,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 367,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 368,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 372,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 377,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 378,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 382,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 383,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 390,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 391,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 392,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 396,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 397,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 409,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 410,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 411,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 417,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 419,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 420,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 425,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 428,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 429,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 435,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 436,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 442,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 443,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 446,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 447,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 450,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 453,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 459,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 461,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 464,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 470,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 471,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 472,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 473,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 474,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 475,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 479,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 484,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 490,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 493,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 496,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 498,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 506,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 507,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 511,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 513,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 516,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 520,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 522,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 525,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 529,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 531,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 533,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 535,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 539,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 540,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 544,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 551,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 553,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 556,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 568,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 569,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 573,
+			"class_type": 6
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 60,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 64,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 69,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 70,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 73,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 74,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 75,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 76,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 80,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 100,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 115,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 117,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 121,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 124,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 134,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 140,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 143,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 155,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 171,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 173,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 178,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 190,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 193,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 195,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 209,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 210,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 231,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 236,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 240,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 243,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 252,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 253,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 254,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 255,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 256,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 282,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 295,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 296,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 303,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 321,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 322,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 323,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 334,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 342,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 355,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 366,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 384,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 386,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 402,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 403,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 410,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 414,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 426,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 434,
+			"class_type": 9
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 51,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 53,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 54,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 59,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 73,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 75,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 76,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 82,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 83,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 89,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 92,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 96,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 102,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 110,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 111,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 121,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 128,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 129,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 130,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 138,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 141,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 143,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 144,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 146,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 150,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 151,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 159,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 162,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 168,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 172,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 180,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 181,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 190,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 192,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 193,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 195,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 207,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 210,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 219,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 223,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 227,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 239,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 248,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 249,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 254,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 256,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 263,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 264,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 266,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 280,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 285,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 288,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 290,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 292,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 296,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 301,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 305,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 317,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 318,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 319,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 332,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 337,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 344,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 347,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 351,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 355,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 368,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 372,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 390,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 393,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 409,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 411,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 433,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 437,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 443,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 447,
+			"class_type": 10
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 1,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 2,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 3,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 4,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 5,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 6,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 7,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 12,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 13,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 14,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 15,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 17,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 19,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 20,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 21,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 22,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 24,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 25,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 26,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 27,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 28,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 29,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 30,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 31,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 34,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 38,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 40,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 42,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 45,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 47,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 51,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 52,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 61,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 62,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 65,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 66,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 67,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 68,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 71,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 75,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 77,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 79,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 81,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 84,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 86,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 87,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 89,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 93,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 103,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 104,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 107,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 110,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 112,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 113,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 118,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 119,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 123,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 125,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 126,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 127,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 130,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 131,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 135,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 139,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 142,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 144,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 145,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 147,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 152,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 153,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 157,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 160,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 161,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 162,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 163,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 164,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 165,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 166,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 167,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 168,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 169,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 173,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 174,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 175,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 180,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 183,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 184,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 186,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 188,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 189,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 191,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 195,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 196,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 198,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 199,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 200,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 201,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 202,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 204,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 205,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 208,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 211,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 213,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 215,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 216,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 217,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 218,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 221,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 222,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 225,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 226,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 228,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 229,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 230,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 232,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 233,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 234,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 238,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 239,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 244,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 246,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 247,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 250,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 251,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 254,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 255,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 257,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 258,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 260,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 262,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 263,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 264,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 265,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 266,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 268,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 270,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 271,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 272,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 274,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 275,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 276,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 277,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 281,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 283,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 286,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 291,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 292,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 293,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 298,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 299,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 304,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 309,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 310,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 313,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 314,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 316,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 317,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 318,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 323,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 324,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 325,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 327,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 328,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 329,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 331,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 335,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 337,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 338,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 343,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 349,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 353,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 360,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 361,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 362,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 364,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 365,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 368,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 369,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 374,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 375,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 376,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 377,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 378,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 381,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 385,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 387,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 389,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 391,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 394,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 397,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 399,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 404,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 406,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 407,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 409,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 413,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 415,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 417,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 430,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 431,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 432,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 435,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 436,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 438,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 439,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 440,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 445,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 446,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 448,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 451,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 452,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 457,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 460,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 462,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 463,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 464,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 466,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 472,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 473,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 474,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 475,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 477,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 478,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 479,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 480,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 481,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 486,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 487,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 490,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 491,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 494,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 501,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 503,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 504,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 506,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 507,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 508,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 509,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 510,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 511,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 516,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 517,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 518,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 522,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 526,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 530,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 537,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 538,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 539,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 544,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 549,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 551,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 555,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 557,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 561,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 562,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 564,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 566,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 571,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 575,
+			"class_type": 12
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 2,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 3,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 4,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 6,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 10,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 13,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 14,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 15,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 19,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 21,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 22,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 23,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 26,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 27,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 29,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 30,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 31,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 42,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 45,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 46,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 47,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 56,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 57,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 63,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 66,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 71,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 79,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 84,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 97,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 99,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 101,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 104,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 106,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 107,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 115,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 116,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 119,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 122,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 137,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 139,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 147,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 154,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 157,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 160,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 161,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 164,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 167,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 170,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 173,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 176,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 183,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 186,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 198,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 199,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 200,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 201,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 202,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 212,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 217,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 218,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 222,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 225,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 226,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 229,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 238,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 251,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 255,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 257,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 260,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 265,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 268,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 271,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 273,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 274,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 275,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 276,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 277,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 282,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 283,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 291,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 293,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 295,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 303,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 305,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 306,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 307,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 308,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 309,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 310,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 313,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 314,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 323,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 324,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 325,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 329,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 335,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 338,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 339,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 345,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 352,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 361,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 362,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 363,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 364,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 365,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 370,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 373,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 374,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 375,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 389,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 395,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 400,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 405,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 406,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 407,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 413,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 416,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 421,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 423,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 425,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 429,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 431,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 438,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 440,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 445,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 448,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 452,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 453,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 456,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 460,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 464,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 472,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 473,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 474,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 475,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 477,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 478,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 480,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 486,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 487,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 488,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 489,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 491,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 494,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 503,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 508,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 509,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 510,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 512,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 516,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 517,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 537,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 538,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 540,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 541,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 545,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 549,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 554,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 555,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 556,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 558,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 564,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 566,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 568,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 572,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 574,
+			"class_type": 13
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 1,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 2,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 3,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 4,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 5,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 6,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 7,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 11,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 12,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 13,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 14,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 15,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 17,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 19,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 20,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 21,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 22,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 24,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 25,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 26,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 27,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 28,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 29,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 30,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 31,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 34,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 37,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 38,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 40,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 42,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 45,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 46,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 47,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 51,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 52,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 53,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 61,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 62,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 63,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 66,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 67,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 68,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 71,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 75,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 77,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 79,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 81,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 84,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 86,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 87,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 88,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 89,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 90,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 91,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 93,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 95,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 97,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 103,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 104,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 105,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 106,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 107,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 109,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 110,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 111,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 112,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 113,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 114,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 115,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 116,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 118,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 119,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 122,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 123,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 125,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 126,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 127,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 128,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 130,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 131,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 132,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 133,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 135,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 137,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 139,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 142,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 144,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 145,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 147,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 148,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 149,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 152,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 153,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 154,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 157,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 158,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 160,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 161,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 162,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 163,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 164,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 165,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 166,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 167,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 168,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 169,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 173,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 175,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 176,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 177,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 178,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 179,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 180,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 183,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 184,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 185,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 186,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 187,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 188,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 189,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 191,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 193,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 194,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 195,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 196,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 197,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 198,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 199,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 200,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 201,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 202,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 204,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 205,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 206,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 208,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 211,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 212,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 213,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 214,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 215,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 216,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 217,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 218,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 220,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 221,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 222,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 225,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 226,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 228,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 229,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 230,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 232,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 233,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 234,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 235,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 237,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 238,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 239,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 242,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 244,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 246,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 247,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 250,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 251,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 255,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 257,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 258,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 259,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 260,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 261,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 262,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 263,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 264,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 265,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 267,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 268,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 269,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 270,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 271,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 272,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 274,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 275,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 276,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 277,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 278,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 279,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 281,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 282,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 283,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 286,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 288,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 289,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 291,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 292,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 293,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 294,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 295,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 297,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 298,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 299,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 300,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 303,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 304,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 305,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 306,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 307,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 308,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 309,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 310,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 311,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 312,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 313,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 314,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 315,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 316,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 317,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 320,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 323,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 324,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 325,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 327,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 328,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 329,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 330,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 331,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 333,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 335,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 336,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 338,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 339,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 340,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 341,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 343,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 345,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 348,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 349,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 352,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 353,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 354,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 355,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 356,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 357,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 358,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 359,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 360,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 361,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 362,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 364,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 365,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 367,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 368,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 369,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 370,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 371,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 372,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 373,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 374,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 375,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 376,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 377,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 378,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 379,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 380,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 381,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 385,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 387,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 389,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 391,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 392,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 394,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 395,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 397,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 398,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 399,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 400,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 401,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 404,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 405,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 406,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 407,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 410,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 413,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 415,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 416,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 418,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 421,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 422,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 423,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 424,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 425,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 427,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 429,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 430,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 431,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 432,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 433,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 435,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 436,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 438,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 439,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 440,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 441,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 442,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 444,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 445,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 446,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 448,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 451,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 452,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 454,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 455,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 456,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 457,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 458,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 460,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 462,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 463,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 464,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 466,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 467,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 468,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 472,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 473,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 474,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 475,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 476,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 477,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 478,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 479,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 480,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 481,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 482,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 485,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 486,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 487,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 488,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 489,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 490,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 491,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 492,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 494,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 495,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 497,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 501,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 502,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 503,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 504,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 506,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 507,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 508,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 509,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 510,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 512,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 513,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 514,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 515,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 516,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 517,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 518,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 519,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 522,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 523,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 524,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 525,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 526,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 528,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 529,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 530,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 532,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 533,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 534,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 535,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 536,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 537,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 538,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 540,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 543,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 544,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 545,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 546,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 547,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 548,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 549,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 550,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 551,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 552,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 554,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 555,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 556,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 557,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 558,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 559,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 561,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 562,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 564,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 565,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 566,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 567,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 568,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 570,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 571,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 572,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 574,
+			"class_type": 14
+		}
+	},
+	{
+		"model": "spells.spellclass",
+		"pk": null,
+		"fields": {
+			"spell": 575,
+			"class_type": 14
+		}
+	}
+]

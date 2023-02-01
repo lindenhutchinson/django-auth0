@@ -1,0 +1,6464 @@
+[
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 1,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 2,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 3,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 4,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 5,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 5,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 6,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 6,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 7,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 8,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 9,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 9,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 10,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 10,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 11,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 12,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 13,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 14,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 15,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 15,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 16,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 16,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 17,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 18,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 19,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 19,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 20,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 1,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 1,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 2,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 3,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 3,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 4,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 4,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 5,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 5,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 5,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 6,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 7,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 7,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 8,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 8,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 9,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 9,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 10,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 10,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 11,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 11,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 11,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 12,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 12,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 12,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 13,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 13,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 14,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 14,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 15,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 15,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 16,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 16,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 17,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 17,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 18,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 19,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 19,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 20,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 3,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 1,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 2,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 3,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 3,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 4,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 4,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 5,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 5,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 5,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 6,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 7,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 7,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 8,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 8,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 9,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 9,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 10,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 10,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 11,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 11,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 11,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 12,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 12,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 12,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 13,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 13,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 14,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 14,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 15,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 15,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 16,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 16,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 17,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 17,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 18,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 19,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 19,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 20,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 5,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 1,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 2,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 3,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 3,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 4,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 4,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 5,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 5,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 5,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 6,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 7,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 7,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 8,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 8,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 9,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 9,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 10,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 10,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 11,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 11,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 11,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 12,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 12,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 12,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 13,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 13,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 14,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 14,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 15,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 15,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 16,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 16,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 17,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 17,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 18,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 19,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 19,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 20,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 6,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 2,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 3,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 4,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 5,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 5,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 6,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 6,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 7,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 8,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 9,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 9,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 10,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 10,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 11,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 12,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 13,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 14,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 15,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 15,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 16,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 16,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 17,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 18,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 19,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 19,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 20,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 9,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 2,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 3,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 4,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 5,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 5,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 6,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 6,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 7,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 8,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 9,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 9,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 10,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 10,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 11,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 12,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 13,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 14,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 15,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 15,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 16,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 16,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 17,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 18,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 19,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 19,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 20,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 10,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 1,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 2,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 3,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 3,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 4,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 4,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 5,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 5,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 5,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 6,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 7,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 7,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 8,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 8,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 9,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 9,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 10,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 10,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 11,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 11,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 11,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 12,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 12,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 12,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 13,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 13,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 14,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 14,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 15,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 15,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 16,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 16,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 17,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 17,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 18,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 19,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 19,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 20,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 12,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 1,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 2,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 3,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 3,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 4,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 4,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 5,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 5,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 5,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 6,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 6,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 7,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 7,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 7,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 8,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 8,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 8,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 9,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 9,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 9,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 10,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 10,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 10,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 11,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 11,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 11,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 11,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 12,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 12,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 12,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 12,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 13,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 13,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 13,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 13,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 14,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 14,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 14,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 14,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 15,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 15,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 15,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 15,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 16,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 16,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 16,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 16,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 17,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 17,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 17,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 17,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 18,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 18,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 18,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 19,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 19,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 19,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 19,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 20,
+			"slots_at_level": 4
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 20,
+			"slots_at_level": 3
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 20,
+			"slots_at_level": 2
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	},
+	{
+		"model": "spells.spellslotprogression",
+		"pk": null,
+		"fields": {
+			"class_type": 14,
+			"spell_level": 20,
+			"slots_at_level": 1
+		}
+	}
+]
