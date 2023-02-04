@@ -13,4 +13,32 @@ Look at those beauties
 {% block content %}
 <a class="mb-3 btn btn-success" href="/character/create">Create a Character</a>
 {% render_table table %}
+
+<script>
+	function toggleActive(old_char, new_char) {
+	  $(`#active-${old_char}`).removeClass("btn-warning").addClass("btn-success").text('Set Active').prop("disabled", false);
+	  $(`#active-${new_char}`).removeClass("btn-success").addClass("btn-warning").text('Active').prop("disabled", true);
+  
+	}
+	$(document).ready(function() {
+	  $(".set-active-btn").click(function() {
+		const characterId = $(this).data("character-id");
+  
+		$.ajax({
+		  url: `/api/set_active_character/${characterId}`,
+		  type: "GET",
+		  success: function(response) {
+			console.log(response);
+			toggleActive(response.old, response.new)
+			//(response.dat)
+			// Handle the response from the server.
+			// For example, you could display a message to the user indicating that the character has been set as active.
+		  },
+		  error: function(xhr, status, error) {
+			console.error(error);
+		  }
+		});
+	  });
+	});
+  </script>
 {% endblock %}

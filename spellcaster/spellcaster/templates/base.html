@@ -35,10 +35,22 @@
                   <a
                     class="nav-link active"
                     aria-current="page"
+                    href="/spells"
+                    >Spells</a
+                  >
+                </li>
+                {% if user.is_authenticated %}
+
+                <li class="nav-item">
+                  <a
+                    class="nav-link active"
+                    aria-current="page"
                     href="/characters"
                     >Characters</a
                   >
                 </li>
+                {% endif %}
+               
               </ul>
               <div class="navbar-end pr-2">
                 <div class="navbar-item">

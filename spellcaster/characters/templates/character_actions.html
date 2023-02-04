@@ -1,4 +1,13 @@
 <div>
+  {% if not record.pk == request.user.active_character.pk %}
+  <button id="active-{{record.pk}}" data-character-id="{{record.pk}}" class="set-active-btn btn btn-success btn-sm"
+    >Set Active</button
+  >
+  {% else %}
+  <button id="active-{{record.pk}}" disabled data-character-id="{{record.pk}}" class="set-active-btn btn btn-warning btn-sm"
+    >Active</button
+  >
+  {% endif %}
   <a href="{% url 'character_edit' record.pk %}" class="btn btn-primary btn-sm"
     >Edit</a
   >

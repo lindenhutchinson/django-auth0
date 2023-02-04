@@ -1,7 +1,5 @@
 from django.db import models
 from django.conf import settings
-from users.models import User
-
 import copy
 
 
@@ -26,7 +24,7 @@ class ClassType(models.Model):
 
 
 class Character(models.Model):
-    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='characters')
     name = models.CharField(max_length=280)
     level = models.IntegerField()
     class_type = models.ForeignKey(ClassType, on_delete=models.CASCADE)
