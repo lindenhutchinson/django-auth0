@@ -29,7 +29,7 @@ class SpellClass(models.Model):
 
 
 class CharacterSpell(models.Model):
-    character = models.ForeignKey(Character, on_delete=models.CASCADE)
+    character = models.ForeignKey(Character, on_delete=models.CASCADE, related_name="spells")
     spell = models.ForeignKey(Spell, on_delete=models.CASCADE)
     prepared = models.BooleanField()
     costs_slot = models.BooleanField()

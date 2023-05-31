@@ -1,0 +1,43 @@
+{% load in_character_spells %}
+
+<tr class="expanded-row">
+	<td colspan="100%">
+		<div class="container mb-2">
+		<div class="row">
+			<div class="col">
+				<ul class="list-unstyled">
+					{% comment %} <li>Source: <strong>{{spell.source}}</strong></li> {% endcomment %}
+					<li>Casting Time: <strong>{{spell.casting_time}}</strong></li>
+					<li>Range: <strong>{{spell.spell_range}}</strong></li>
+					<li>Components: <strong>{{spell.components}}</strong></li>
+					<li>Duration: <strong>{{spell.duration}}</strong></li>
+				</ul>
+			</div>
+
+
+			<div class="offset-4 col-2">
+				{% if request.user and request.user.active_character %}
+					{% if request.user.active_character|in_character_spells:spell.id %}
+						<button class="btn btn-danger">Remove from {{request.user.active_character.name}}</button>
+					{% else%}
+						<button class="btn btn-success">Add to {{request.user.active_character.name}}</button>
+					{% endif %}
+				{% endif %}
+			</div>
+
+		</div>
+		<div class="row">
+			<div class="col-10">
+			{{spell.description|safe}}
+			</div>
+		</div>
+	</div>
+	</td>
+</tr>
+
+<style>
+	ul.list-unstyled {
+		list-style: none;
+		padding-left: 0;
+	}
+</style>

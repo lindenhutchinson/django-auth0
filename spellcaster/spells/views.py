@@ -77,4 +77,5 @@ def spell_table(request):
 @login_required
 def spell_description(request, spell_id):
     spell = Spell.objects.get(id=spell_id)
-    return JsonResponse({"description": spell.description})
+    return render(request, 'spell_description.html', {'spell': spell})
+

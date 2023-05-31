@@ -11,6 +11,7 @@ Anything you like?
 {% endblock %}
 {% block content %}
 <form id="spell-table-form" class="mb-3" action="{% url 'spell_table' %}" method="get">
+	<!-- SEARCHING AND FILTERING  -->
 	<div class="row">
 		<div class="col-5">
 			<div class="form-group">
@@ -56,11 +57,10 @@ Anything you like?
 		<div class="col d-flex align-items-center justify-content-center" style="margin:auto">
 			<p class="text-muted" style="font-size: smaller">{{ num_spells }} result{{ num_spells|pluralize }}</p>
 		</div>
-		
 	</div>
 </form>
 
-
+	<!-- TABLE CONTENT  -->
 {% if spells|length %}
 <table class="table table-hover table-dark spell-table">
 	<thead class="table-light">
@@ -95,9 +95,6 @@ Anything you like?
 		<td>{{spell.school}}</td>
 		<td>{{spell.casting_time}}</td>
 		<td>{{spell.spell_range}}</td>
-		{% comment %} <td>{{spell.components}}</td>
-		<td>{{spell.duration}}</td> {% endcomment %}
-		{% comment %} <td>{{ spell.classes.all|join:", "}}</td> {% endcomment %}
 		<td id="icon_{{spell.id}}"><span class="expand-icon" style="color:white"><i class="bi bi-caret-down-fill"></i></span></td>
       </tr>
 
@@ -167,13 +164,13 @@ No spells found...
 	}
 	.expanded-row {
 		height: 0;
-		--bs-table-bg: white;
+		--bs-table-bg: #FFFCF2;
 		color: black;
-		--bs-table-striped-bg: white;
-		--bs-table-striped-color: white;
-		--bs-table-active-bg: white;
-		--bs-table-active-color: white;
-		--bs-table-hover-bg: white;
+		--bs-table-striped-bg: #FFFCF2;
+		--bs-table-striped-color: #FFFCF2;
+		--bs-table-active-bg: #FFFCF2;
+		--bs-table-active-color: #FFFCF2;
+		--bs-table-hover-bg: #FFFCF2;
 		--bs-table-hover-color: black;
 		border-left: 1px solid #ccc; /* 1px solid gray border */
 		border-right: 1px solid #ccc; /* 1px solid gray border */
@@ -251,7 +248,7 @@ No spells found...
 				type: "GET",
 				success: function(data) {
 					// Insert a new row below the clicked row with the spell information
-					$clickedRow.after("<tr class='expanded-row'><td colspan='100%'>" + data.description + "</td></tr>");
+					$clickedRow.after(data);
 					$(".expanded-row").slideDown(100);
 				},
 				error: function(xhr, status, error) {
