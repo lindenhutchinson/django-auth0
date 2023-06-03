@@ -44,7 +44,8 @@ class SpellSlot(models.Model):
 class SpellSlotProgression(models.Model):
     class_type = models.ForeignKey(ClassType, on_delete=models.CASCADE)
     spell_level = models.IntegerField()
-    slots_at_level = models.IntegerField()
+    char_level = models.IntegerField()
+    slots = models.IntegerField()
 
 
 class CastSpell(models.Model):
